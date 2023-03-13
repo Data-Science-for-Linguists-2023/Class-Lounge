@@ -6,3 +6,4 @@
 - Wilson likes capybaras
 - Varun likes highland cows
 - Sen likes cats and sea slugs
+- Mack likes birds
