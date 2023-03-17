@@ -8,4 +8,11 @@ I am working on a project titled 'Kazakh-Russian code-switching analysis,' which
 
 ## Notes  
 
+### Mack
+I really like your topic! It seems very interesting and I am excited to see how it goes.
 
+1. I thought the overall structure of your repo was very easy to follow and understand the goals of your project and what progress you have made thus far. Very good narrative to help me follow along with your code and your annotation plan.
+
+2. This may be cumbersome to do for the entire project but maybe just for some examples provide English translations. I know it isn't the main focus of your project but it will help the English-speaking audience better understand your research.
+
+3. I learned that Kazakh speakers code switch to Russian *within* words! I am familiar with inter- and intra-sentential switching but this is the first I've heard of intra-word code switch.
