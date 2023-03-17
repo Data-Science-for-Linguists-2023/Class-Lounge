@@ -19,3 +19,12 @@ I like this topic! Your findings will be really interesting especially because o
 2. Because you are working with a theoretical background I think giving a brief overview of that may be beneficial.
 
 3. I learned that there is a theory of the order we learn morphemes.
+
+### Moldir's Notes
+I like how well-organized and tidy your markdown files are! Your topic is also very intriguing, and I look forward to seeing your final analysis.
+
+1. Well done: I think the data curation part was done very well, and the data samples you collected fully aligned with the project goals.
+
+2. What I learned: There is a Python library for language acquisition research! 
+
+3. Suggestion: I also agree with Mack on adding a brief theoretical overview for those who are not familiar with the morpheme acquisition order studies or the second language acquisition field in general. 
