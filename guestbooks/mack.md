@@ -15,3 +15,11 @@ I really like your idea for the project and I think it will be really cool to ex
 In terms of improvement, I think your repository could benefit from a lot more organization and explanation. On the front page of your repository, it doesn't say anything, so someone viewing it has to explore and figure out where to go on their own. It would be helpful to explain in the README what aspects of your repository are and where they are located!
 
 One thing I learned is that the data that you are working with is very extensive and a lot of the dataframes have columns in common, which will be really cool to see it all come together for data analysis purposes.
+
+### Ashley
+
+- **Well Done:** I think it's great the way you dove into the data to check whether or not there were any missing values. This was something I encountered in my own data, where `.info()` indicated there were no NaN values, but this is because any missing values had been filled with another symbol (in your case, the ? symbol). This is difficult but critical to find, so great work for really looking closely at those values.
+
+- **Suggestion:** Because you're going to be doing a lot of work joining this data into a more readable format, if it turns out you are able to publicly share all of your code, it might be helpful to include your final joined dataframe in your data samples as well as the original corpus data. If it's not publicly shareable, maybe just the first five lines would be helpful to show anyone looking at your project what the eventual final data you were using for most of your analysis looked like.
+
+- **What I Learned:** It was interesting to learn just how large the timespan is of movies that this corpus covers - from 1927-2010! Over 80 years of movies will definitely give you a lot to work with if you choose to analyse changes in discourse over time.
