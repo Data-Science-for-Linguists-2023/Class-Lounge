@@ -16,3 +16,11 @@ I really like your topic! It seems very interesting and I am excited to see how 
 2. This may be cumbersome to do for the entire project but maybe just for some examples provide English translations. I know it isn't the main focus of your project but it will help the English-speaking audience better understand your research.
 
 3. I learned that Kazakh speakers code switch to Russian *within* words! I am familiar with inter- and intra-sentential switching but this is the first I've heard of intra-word code switch.
+
+### Camryn
+
+I think you have a lot of great work done so far! One thing I really liked is that your jupyter notebook for the datasets was really well formatted, which made it really easy to read and understand what is going on. For example, I really like that you included advantages/disadvantages, and included a spot in the notebook about your future work. 
+
+One thing that I think you could improve on is organizing your repository. Having folders or having explanations of what something is and where it is would be super helpful instead of having it all in main part. I also agree with the feedback above that including someEnglish translations would be helpful!
+
+I learned that Kazakh-Russian code switching is very common because most Kazakhs are bilingual! 
