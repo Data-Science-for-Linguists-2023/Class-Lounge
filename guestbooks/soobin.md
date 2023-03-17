@@ -10,3 +10,7 @@ I am working on TED talk transcript and its rating. I am trying to build a class
 
 # Notes
 
+## Sen's Notes
+Soobin, I think that you've chosen an interesting topic, and I'm curious to see what you find out. From checking out your code, I learned some new functions and methods.
+
+Based on your summary and progress report it seems you are still trying to figure out a working hypothesis. I think there are a lot of different lexical or linguistic features of speeches/talks that could affect the popularity or engagement that it receives. Some that come to mind are the speaker's tone, interrogatives like rhetorical questions, personal language, and emotional langauge, so you could try investigating those. You could also take measurements of features such as TTR and average sentence length to see if viewers prefer talks with more simple straightforward language or more complexity.
