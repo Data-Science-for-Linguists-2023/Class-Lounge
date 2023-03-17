@@ -22,3 +22,11 @@ My project is titled [For Reddit Grammaticality Analysis](https://github.com/Dat
 - **Suggestion:** I am not very familiar with reddit, but if I understand your data correctly it looks like the text is from the same person that wrote the title/made the post. Since some of your reddits seem to be more like forums for posing questions, is there a way to also collect data on different users' responses on the reddit thread? For example, subreddits like ELIF or Legal Advice seem like the most distinct language differences would be from the people responding to the posed question, talking simply like to a 5-year old or more sophisticated like a lawyer. I know you already have a lot of great data, but this could be something to explore!
 
 - **What I Learned:** I learned a lot about what data scraping can look like when a website has an API designed specifically for it (I was going to use Goodreads' API for my project, but they discontinued it :( so I haven't been able to explore as much as I'd hoped). Your project gave me some great insight into what that process looks like and how to work efficiently with an API. 
+
+## Alex
+
+- **One thing I like**: I also agree that the collection of subreddits you implemented were very interesting, and that they do show a span in interests in subcultures that might meaningfully show differences in writing style. I do wonder if some of these subreddits will have higher likelihoods of people writing with English as an additional language (whether it's because it's a bigger subreddit or about a topic more or less niche to a certain culture), and if that might influence your results.
+
+- **One avenue for improvement**: As your analysis centers around the grammaticality of the posts themselves, I was curious to learn how the additional information you save (like number of comments, upvotes, etc.) will play into your project in the future. They're definitely useful pieces of information to have, but maybe a comment somewhere explaining why they're maintained in your data set would be useful.
+
+- **One thing I learned**: I'm also scraping info from Reddit for my project, and didn't really know how to initialize the API without sharing my private info, and I think the way that you do is is very straightforward and useful to keep in mind! 

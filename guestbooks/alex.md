@@ -1,4 +1,7 @@
-# TITLE
+# Alex's Guestbook
+Hello! Thanks for visiting my guestbook.
+
+## [Analyzing Blame Shifting on AITA](https://github.com/Data-Science-for-Linguists-2023/AITA-Blame-Analysis)
 
 
 ### Wilson

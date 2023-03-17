@@ -23,3 +23,12 @@ For my project, I am curious to see if the written language style used by reader
 - **An avenue for improvement**: As Wilson said above, there is a lot of code that could potentially be simplified by allowing all repeat parts to be completed by a function. Also, for comparisons such as en-BR, en-US, eng, you could potentially simplify it to one comparison by comparing the first two characters to 'en' (if there are no other en languages).
 
 - **One thing I learned:** I didn't realize review data would be as plentiful and useful as it is! A lot of your samples are filled with great data for analysis.
+
+
+## Alex
+
+- **One thing I like**: Your project plan is very thorough in establishing what your project is, and your annotation throughout your Jupyter Notebook makes it very easy to follow your process as you carve your data set into what you need. Overall very accessible and thoughtful.
+
+- **One avenue for improvement**: I think that it's potentially fine for all the code to be written out if you're trying to be thorough in reading through the process. But maybe a note or something that let's readers know that you're going to start cycling through all the genres would be helpful as I wasn't entirely sure if you were done with your initial processing of the Children's data.
+
+- **One thing I learned**: I haven't interacted with Goodreads a lot before, but I was really surprised at just how many languages are incoded into it's metadata! 
