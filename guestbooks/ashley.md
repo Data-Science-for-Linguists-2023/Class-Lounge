@@ -1,5 +1,12 @@
-# TITLE
+# Ashley's Guestbook
 
+Thanks for checking out my guestbook! Any feedback is greatly appreciated.
+
+##  [What's the Story?: Linguistic Variation in Goodreads Reviews by Genre](https://github.com/Data-Science-for-Linguists-2023/Goodreads-Genre-Reviews-Analysis)
+
+For my project, I am curious to see if the written language style used by readers differs depending on the genre of book they are reviewing. I am particularly intersted if readers' writing styles share similar traits to the writing styles of the genre they read and review. I am currently still working on data processing and trying to deal with extremely large file sizes, so please let me know if you have any suggestions to make that process more efficient. Thank you!
+
+## Notes
 
 ### Wilson
 
