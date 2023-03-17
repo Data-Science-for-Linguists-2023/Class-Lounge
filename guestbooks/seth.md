@@ -1,4 +1,8 @@
-# TITLE
+# Discourse Analysis via Reddit
+
+Hello everyone, welcome to my guestbook!
+
+I chose this product because the development of discourse online is unique, due to its asynchronous and (largely) anonymous nature. Please check out [my repo](https://github.com/Data-Science-for-Linguists-2023/Analyzing-Discourse-Structure-via-Reddit) for more info!
 
 
 ## Sen's Notes

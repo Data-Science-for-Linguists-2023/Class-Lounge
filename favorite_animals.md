@@ -11,3 +11,4 @@
 - Ashley likes alpacas
 - Alex likes penguins
 - Camryn likes otters
+- Seth likes red pandas
