@@ -18,3 +18,18 @@ One thing I can sort of recommend for the final analysis is that it might help g
 
 * One thing I learned
 I don't even know what to say in this section cause I honestly do not know what is going on in your python script. It's just too difficult for me to comprehend each code.. Just amazed by your extensive work on this.. 
+
+
+### varun's comment
+
+#### one thing i think is done well
+
+i like that you used a python script for data parsing - i think its far more effective than jupyter for those types of use cases
+
+#### one suggestion
+
+not too much, good work
+
+#### one thing i learned
+
+i had no idea that this dataset existed. will definitely be looking into the Searchable Index Diachronica
