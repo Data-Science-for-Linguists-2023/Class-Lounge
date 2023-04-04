@@ -29,3 +29,13 @@ I think you have done a great job so far!
 2. I think what you have so far is good, but I think some organization in your repository would help! For example, putting all of your notebooks into a folder. I also think having something in your README about the order in which one should go through your notebooks would also be helpful.
 
 3.  One thing I wasn't super aware of was the concept of turn-taking in online discourse, and how this can be observed and analyzed.
+
+## Mack's Notes
+
+I love the concept and approach for this topic! Looking at a thread through the lens of discourse is really interesting and I look forward to seeing how everything shapes up.
+
+1. You have a great handle on how the data are structured and how you are going to coerce the raw data to make sense for your research.
+
+2. You are working with a lot of data (which you present very clearly) and the notebooks are very text heavy, especially with some of the long outputs that Python generates. So I think some visualization of the data may help give the audience a different view of the data. Some graphs on comments per subreddit or some idea of engagement per subreddit, if one subreddit you've selected is more popular than the others.
+
+3. I had no idea that the Reddit API had built in functionality with Python. This is a great way to streamline the work you have done.
