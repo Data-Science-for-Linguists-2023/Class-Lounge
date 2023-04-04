@@ -19,3 +19,13 @@ While I'm not very familiar with discourse analysis, something that came to mind
 2. What I learned: There is a separate package for extracting data from Reddit. Seems very handy and efficient when dealing with such a nested data structure as yours.
 
 3. Suggestion: Clarifying how you will explore turn-taking in online discourse and what discourse categories will be the main focus of your project: language-in-use or socio-political.  
+
+## Camryn's Notes
+
+I think you have done a great job so far!
+
+1. As someone who has also worked with PRAW, I see you have made great progress with setting up and collecting posts from subreddits. I also think you make great comments throughout your notebooks, which is helpful for understanding.
+
+2. I think what you have so far is good, but I think some organization in your repository would help! For example, putting all of your notebooks into a folder. I also think having something in your README about the order in which one should go through your notebooks would also be helpful.
+
+3.  One thing I wasn't super aware of was the concept of turn-taking in online discourse, and how this can be observed and analyzed.
