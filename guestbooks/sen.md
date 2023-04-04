@@ -28,3 +28,13 @@ I like how well-organized and tidy your markdown files are! Your topic is also v
 2. What I learned: There is a Python library for language acquisition research! 
 
 3. Suggestion: I also agree with Mack on adding a brief theoretical overview for those who are not familiar with the morpheme acquisition order studies or the second language acquisition field in general. 
+
+### Camryn's Notes
+
+I think you have made really great progress!
+
+1. I really like how detailed your notebooks are. The comments throughout them are super helpful for understanding what is going, so they are really appreciated! For example, seeing where you ran into issues and how you planned to resolve them.
+
+2. I think your project looks great, but potentially adding more information to your README file could be beneficial. For example, you have some background information in your project plan, but I think this information would be great in your README file!
+
+3. Similar to what Mack mentioned, I also didn't know of the theory mentioned in the project plan. I knew there was a lot of research in the world of language acquisition and second language acquisition, but it is really fascinating that there are different theories on the order in which different language learners learn morphemes.
