@@ -42,3 +42,5 @@ You did everything thoroughly! One nitpick I have is that, toward the end of the
 3. One thing I learned
 
 The method you used to calculate positive vs. negative reviews for each TED talk was clever!
+
+-- Hi Seth! Thanks a lot for your comments. And sorry for bothering you with my Korean comments. I left it in Korean thinking that I will revise it later, and I forget.
