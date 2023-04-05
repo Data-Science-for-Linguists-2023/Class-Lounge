@@ -19,3 +19,17 @@ I like your plot about age distribution! I didnt know that I can sort the x-axis
 
 * One random comment about the data
 I like that it has `sign` column!! I don't know much about zodiac signs and the salient characteristics of each of them, but it would be really fun to check if those stereotypes are true based on the text I guess?!
+
+## Seth
+
+* One thing you did well
+
+Your repository is really interesting! Using Python scripts instead of the often tedious to set up Jupyter Notebook is clever. You also handle multiple different types of data (pulled from Reddit + text files for the blog data), which is impressive!
+
+* One avenue for improvement
+
+Great job on the content of your repository! One suggestion I have is creating a 'roadmap' within your repo that can guide users in exploring your data/analysis, as I found the number of files a bit overwhelming. 
+
+* One thing I learned
+
+Your 'distribution of bloggers by age' graph is super cool! It's interesting to see the jump from 13 to 33, from which it never comes back down. 
