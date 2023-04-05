@@ -50,3 +50,11 @@ Hi, Alex! Thank you for your feedback. I talk a bit about why I save certain inf
 - **One potential avenue for improvement:** Instead of printing out entire lists in the notebook, maybe just print a summary of the data or the head of the data. It makes it hard to navigate the notebook when there are hundreds of lines being printed from a single list.
 
 - **One thing I learned:** I assumed `language-tool-python` would have issues with links, but it makes sense that it parses them (and other markdown syntax) correctly -- I actually have a VSCode extension that uses LanguageTool to spellcheck and grammar-check markdown and LaTeX files.
+
+## Varun
+
+- **One thing I like:** I like the analysis section in your notebook, it goes into detail and leverages knowledge of linguistic features that are relevant!
+
+- **One potential avenue for improvement:** Similar to Wilson's comment, the printing makes the notebook get really long. Maybe have a quick summary instead.
+
+- **One thing I learned:** I learned a quicker way to parse the praw output and quickly get features that are relevant to the post.
