@@ -27,6 +27,9 @@ I like the various hypotheses you have about what you think you will find. A lot
 
 3. I did not know there were these data out there on TED talks.
 
+-- Henlo Mack! Thanks for your feedback. Like I said above to Sen, I always appreciate your support in so many aspects of my life. Soooo, it seems like my data is giving me something that I didn't expected in the beginning of this journey. Hope that I can get something interesting to you! :) see ya *muah*
+
+
 ## Seth's Notes
 
 Hi Soobin!
