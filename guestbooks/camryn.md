@@ -42,3 +42,11 @@ Hi, Ashley! Thank you for your feedback. There is definitely a way to get commen
 ### Camryn's response
 
 Hi, Alex! Thank you for your feedback. I talk a bit about why I save certain information regarding posts, such as number of upvotes, in my [Project Plan](https://github.com/Data-Science-for-Linguists-2023/For-Reddit-Grammaticality-Analysis/blob/main/project_plan.md). Essentially, if time permits, I want to see if grammaticality has any impact on the interactions that a post my receive. I figured I would save that information to the dataframe while I was collecting them, instead of having to query for a bunch of additional information regarding 10k+ posts later, which is why they are there. But, you are definitely right in that I should have a comment explaining what information I collect and why in my notebooks.
+
+## Wilson
+
+- **One thing I like:** I think your repo is really well-organized -- I like how you outline its structure in the README and give an outline in the beginning of every notebook. (Unfortunately the outline links don't seem to work...)
+
+- **One potential avenue for improvement:** Instead of printing out entire lists in the notebook, maybe just print a summary of the data or the head of the data. It makes it hard to navigate the notebook when there are hundreds of lines being printed from a single list.
+
+- **One thing I learned:** I assumed `language-tool-python` would have issues with links, but it makes sense that it parses them (and other markdown syntax) correctly -- I actually have a VSCode extension that uses LanguageTool to spellcheck and grammar-check markdown and LaTeX files.

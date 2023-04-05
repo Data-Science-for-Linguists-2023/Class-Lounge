@@ -31,3 +31,11 @@ Thank you for this! I took some time on the last progress report to get my landi
 ### Mack's response
 
 Thanks for the feedback! I finally solidified what can be shared so I have a copy of all of the data in my repo and will make my code and the data frames created completely open as well.
+
+## Wilson
+
+- **One thing I like:** I like the idea of your analysis a lot, and I think the end result will be really interesting to see.
+
+- **One potential avenue for improvement:** It seems like you're in the middle of processing a bunch of different parts of your data and there's still not any possibility for analysis yet. Maybe it'd help to focus on a single aspect of your data at a time and get at least a few of those dataframes in a workable state to make sure that, if you're low on time, you can get at least some kind of analysis done? I'm not sure if you're really in danger of that or not, but just in case...
+
+- **One thing I learned:** I didn't know NLTK had a names corpus -- I'm not sure how I would have approached figuring out what gender names are, but that names corpus seems super helpful.
