@@ -37,3 +37,14 @@ For my project, I am curious to see if the written language style used by reader
 - **One thing I learned**: I haven't interacted with Goodreads a lot before, but I was really surprised at just how many languages are incoded into it's metadata! 
 
 **Ashley's Response:** Hi Alex, thanks for your feedback! You make a great point about explaining my process a bit more - I got so caught up in the data processing that I tended to forget those reading don't know what's going on unless I explain. I'll definitely go back and add some additional notes to make things more clear, especially when repeating the process through new genres. Thanks again!
+
+## Soobin
+
+- **One thing I like**: 
+    I like that you utilized `pickle` package a lot since handling this ginormous data could easily lead to crash.
+
+- **One avenue for improvement**: 
+    The only thing to quibble is that, there could be a way to simplify the code in 51st cell. you are using '|' operator to filter the language code, and you can do the same operation if you use `.isin()` method.
+    
+- **One thing I learned**:
+    I didn't know that we can use piping (|) in the python code!
