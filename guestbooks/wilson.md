@@ -41,3 +41,11 @@ i had no idea that this dataset existed. will definitely be looking into the Sea
 #### Response
 
 Thanks!
+
+### Sen's comment
+
+- Your explanations are really detailed and thorough, they do an excellent job walking through your code so that was really helpful (especially as someone without a computer science background).
+
+- You are working with a lot of data and all sorts of variations and changes, but I think some visualizations would definitely go a long way, especially moving from the data parsing to analysis stage. 
+
+- I learned about the Index Diachronica, which seems like a pretty fascinating dataset. I also learned a lot from your Python scripts, since it's quite different than code I'm used to reading and writing on my own (so many new libraries, so many great functions!)
