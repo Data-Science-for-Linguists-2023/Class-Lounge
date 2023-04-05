@@ -12,6 +12,8 @@ Based on your data collection Jupyter notebook, I learned about python libraries
 
 While I'm not very familiar with discourse analysis, something that came to mind as a suggestion was checking out the [Empath tool](https://github.com/Ejhfast/empath-client) for analyzing text across lexical categories. Maybe it can help you make generalizations about the types of lexical features that are prominent in the comments.
 
+-- Seth: Thanks for the feedback, Sen! Using the empath tool seems like a really cool direction I could take my analysis. Don't be surprised if it ends up in there!
+
 ## Moldir's Notes
 
 1. Well done: The data collection section was done very well! I am impressed with how you extracted necessary data from multiple subreddits. Your code snippets are easy to follow, and you provide enough notes throughout JNB.
@@ -19,6 +21,8 @@ While I'm not very familiar with discourse analysis, something that came to mind
 2. What I learned: There is a separate package for extracting data from Reddit. Seems very handy and efficient when dealing with such a nested data structure as yours.
 
 3. Suggestion: Clarifying how you will explore turn-taking in online discourse and what discourse categories will be the main focus of your project: language-in-use or socio-political.  
+
+-- Seth: Thank you, Moldir! I'm glad my code was easy to follow :)
 
 ## Camryn's Notes
 
@@ -29,3 +33,17 @@ I think you have done a great job so far!
 2. I think what you have so far is good, but I think some organization in your repository would help! For example, putting all of your notebooks into a folder. I also think having something in your README about the order in which one should go through your notebooks would also be helpful.
 
 3.  One thing I wasn't super aware of was the concept of turn-taking in online discourse, and how this can be observed and analyzed.
+
+-- Seth: Thank you for your feedback Camryn! Using the README to establish an order to my repository is a great idea, and I'll probably go ahead and do that.
+
+## Mack's Notes
+
+I love the concept and approach for this topic! Looking at a thread through the lens of discourse is really interesting and I look forward to seeing how everything shapes up.
+
+1. You have a great handle on how the data are structured and how you are going to coerce the raw data to make sense for your research.
+
+2. You are working with a lot of data (which you present very clearly) and the notebooks are very text heavy, especially with some of the long outputs that Python generates. So I think some visualization of the data may help give the audience a different view of the data. Some graphs on comments per subreddit or some idea of engagement per subreddit, if one subreddit you've selected is more popular than the others.
+
+3. I had no idea that the Reddit API had built in functionality with Python. This is a great way to streamline the work you have done.
+
+-- Thanks for the feedback, Mack! I agree, my notebook is text-heavy and could use a bit more graphs!

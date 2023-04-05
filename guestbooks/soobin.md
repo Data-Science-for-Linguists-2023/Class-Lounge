@@ -14,3 +14,29 @@ I am working on TED talk transcript and its rating. I am trying to build a class
 Soobin, I think that you've chosen an interesting topic, and I'm curious to see what you find out. From checking out your code, I learned some new functions and methods.
 
 Based on your summary and progress report it seems you are still trying to figure out a working hypothesis. I think there are a lot of different lexical or linguistic features of speeches/talks that could affect the popularity or engagement that it receives. Some that come to mind are the speaker's tone, interrogatives like rhetorical questions, personal language, and emotional langauge, so you could try investigating those. You could also take measurements of features such as TTR and average sentence length to see if viewers prefer talks with more simple straightforward language or more complexity.
+
+## Mack's Notes
+
+I like the various hypotheses you have about what you think you will find. A lot of them make sense and I am curious if your analysis will support the hypotheses or generate something unexpected.
+
+1. It seems like you've spent a lot of time working with the data and you've look at it from several different angles. I think bringing in Kband data was a great idea.
+
+2. I think your notebook could use a little more commentary to help the reader understand what you are doing at each step and why. You've done a lot of great work wrangling with the data, so some comments and text will help us follow along.
+
+3. I did not know there were these data out there on TED talks.
+
+## Seth's Notes
+
+Hi Soobin!
+
+1. One thing you did well
+
+There are a lot of things to pick from, but one particular thing that impressed me was your data exploration. Your notebook was really easy to follow in this regard, and things like the .dropna not dropping nulls was well-explored!
+
+2. One avenue for improvement
+
+You did everything thoroughly! One nitpick I have is that, toward the end of the notebook, the notes are in Korean. Having an English translation for each Korean sentence would be great, as I found myself throwing words into google translate
+
+3. One thing I learned
+
+The method you used to calculate positive vs. negative reviews for each TED talk was clever!
