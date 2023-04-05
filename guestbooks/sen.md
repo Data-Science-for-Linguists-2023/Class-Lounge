@@ -38,3 +38,12 @@ I think you have made really great progress!
 2. I think your project looks great, but potentially adding more information to your README file could be beneficial. For example, you have some background information in your project plan, but I think this information would be great in your README file!
 
 3. Similar to what Mack mentioned, I also didn't know of the theory mentioned in the project plan. I knew there was a lot of research in the world of language acquisition and second language acquisition, but it is really fascinating that there are different theories on the order in which different language learners learn morphemes.
+
+### Ashley's Notes
+
+1. I love how thorough your explanations are for every step of the process. You have a clear research goal that is well-articulated, and you clearly explained how the different data sets you tried either did or did fit in with that goal, allowing you to switch to data that would be most helpful for you. Great work keeping a clear focus!
+
+2. One suggestion I have is to try to clarify the connection you will be looking at between L1/L2 learners' morpheme acquisition. Will you be comparing the number of years someone has been learning English as a second language to the age of a native English speaker numerically? Or will you just be looking at the order of morpheme acquisition over time in each group independent of one another, then comparing those orders? This is just a small note, but it might be worth clarifying before you begin your analysis. 
+
+3. I'm so interested in this PyLangAcq library! Especially when you were able to use the library to annotate the corpus for each token's part of speech and morpheme, I was amazed at how much using the right tools could help your data processing and analysis - I had no idea something like this existed and will definitely be taking a look at additional Python libraries for my own project.
+
