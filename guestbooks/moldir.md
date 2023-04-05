@@ -32,3 +32,11 @@ I learned that Kazakh-Russian code switching is very common because most Kazakhs
 2. I know you aren't able to share most of your data, but one suggestion I would give is (if possible) to include an example of an utterance with your codes attached. We can see your annotation scheme as well as the counts of different annotations in your JNB, so having an example to see how those codes are being interpreted and applied to an actual piece of text could help put those pieces together and further clarify your annotation process. 
 
 3. Like Mack said, I learned that code switching can occur intra-word, which is something I hadn't heard of previously. It was especially interesting to learn that intra-word code switching can occur by attaching an affix of one language to a stem of another language, which is fascinating.  
+
+## Alex
+
+- **One thing I like:** The data set you're using seems incredibly thorough and complex, and so I really appreciate how thoroughly you explore the data set prior to doing your analysis. And, because your data set is so complex, I appreciated how you would explain and summarize the work you're doing to the reader, for example when you stop and explain what the "recusive_parser" function is.
+
+- **One potential avenue for improvement:** In annotatedDataset.ipynb, after \[62],you comment that "Cyrillic characters are not recognized!" Because I'm unfamiliar with the data set I'm not sure how the work you did prior to that shows that conclusion, so maybe an explanation of what's happening there could be useful. I think it has something to do with Labelbox? But overall it seems really important to your project that Cyrillic character's aren't recognized there! 
+
+- **One thing I learned:** I found out about the Labelbox platform, which seems like a really valuable tool in annotating data!

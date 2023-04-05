@@ -39,3 +39,11 @@ Thanks for the feedback! I finally solidified what can be shared so I have a cop
 - **One potential avenue for improvement:** It seems like you're in the middle of processing a bunch of different parts of your data and there's still not any possibility for analysis yet. Maybe it'd help to focus on a single aspect of your data at a time and get at least a few of those dataframes in a workable state to make sure that, if you're low on time, you can get at least some kind of analysis done? I'm not sure if you're really in danger of that or not, but just in case...
 
 - **One thing I learned:** I didn't know NLTK had a names corpus -- I'm not sure how I would have approached figuring out what gender names are, but that names corpus seems super helpful.
+
+## Alex
+
+- **One thing I like:** Your process cleaning and reorganizing your data is extrememly thorough and explained well. There doesn't seem to be much analysis yet, but with the amount of work you've done to collect you're data I you're on a really good path for addressing analysis later. 
+
+- **One potential avenue for improvement:** It would be nice to have some sort of statement in one of the notebooks lightly touching on some of the methods you plan on using during analysis to explain to readers why you are curating your data set in a specific way. It makes sense to focus in on the gender markers, since that's what the project is titled around, but overall it would be useful to get a clearer sense of how each DataFrame is connected to each other and what purpose they fulfill in your project. I think I understand how they're connected through IDs, but a blanket statement explaining it might be nice.
+
+- **One thing I learned:** I was surprised to see how many more movies are from the 1990s in this corpus! I'd presume the number of movies produced in any given years had only increased over time. It makes me curious about how the original data set was collected.

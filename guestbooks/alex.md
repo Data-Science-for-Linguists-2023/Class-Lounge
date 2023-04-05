@@ -15,14 +15,11 @@ Hello! Thanks for visiting my guestbook.
 
 ### varun
 
-#### one thing i think is done well
-i love the project idea, i read it and i went "dang that's good"
+- **one thing i think is done well:** i love the project idea, i read it and i went "dang that's good"
 
-#### one suggestion
-maybe consider the role comments have to play? not just the up/down numbers but what they're saying? not sure if you are using that already for validation
+- **one suggestion:** maybe consider the role comments have to play? not just the up/down numbers but what they're saying? not sure if you are using that already for validation
 
-#### one thing i learned
-i didn't know the PMAW existed, definitely good to know since i am working with reddit data!
+- **one thing i learned:** i didn't know the PMAW existed, definitely good to know since i am working with reddit data!
 
 ### Soobin
 
