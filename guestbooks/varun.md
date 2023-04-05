@@ -33,3 +33,11 @@ Great job on the content of your repository! One suggestion I have is creating a
 * One thing I learned
 
 Your 'distribution of bloggers by age' graph is super cool! It's interesting to see the jump from 13 to 33, from which it never comes back down. 
+
+## Sen
+
+- Your coding in the jupyter notebooks seems really succint and efficient. It seems that you've given a lot of thought to the types of features that could affect your question, given that you have scripts analyzing both lexical and syntactic features. I'm looking forward to seeing the results of your analysis.
+
+- I like how you've organized your repository but I did find myself searching and clicking around a lot, so maybe including some type of directory in your README.md or links in your progress report and/or between jupyter notebooks and scripts and such would make it a bit easier to navigate.
+
+- I'm used to just throwing all of my code into a jupyter notebook, so it was cool to learn about creating and utilizing Python scripts instead.
