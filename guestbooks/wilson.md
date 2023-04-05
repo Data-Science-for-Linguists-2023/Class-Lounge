@@ -19,6 +19,10 @@ One thing I can sort of recommend for the final analysis is that it might help g
 * One thing I learned
 I don't even know what to say in this section cause I honestly do not know what is going on in your python script. It's just too difficult for me to comprehend each code.. Just amazed by your extensive work on this.. 
 
+#### Response
+
+Thank you! That suggestion was actually helpful, I'm doing something related to that now.
+
 
 ### varun's comment
 
@@ -33,3 +37,7 @@ not too much, good work
 #### one thing i learned
 
 i had no idea that this dataset existed. will definitely be looking into the Searchable Index Diachronica
+
+#### Response
+
+Thanks!
