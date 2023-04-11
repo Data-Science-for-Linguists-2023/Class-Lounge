@@ -66,4 +66,4 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 
 3. I have learned that we can build a model to explore the correlation between the ratings and the text. 
 
--- Hello Moldir! Thank you for your comments. But I am not very sure what you mean by 'corresponding words'. I will ask you tomorrow after class ;) 
+-- Hello Moldir! Thank you for your comments. But I am not very sure what you mean by 'corresponding words'. I think I should ask you tomorrow after class ;) 
