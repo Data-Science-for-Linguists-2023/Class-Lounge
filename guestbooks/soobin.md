@@ -56,6 +56,8 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 
 3.  Your way of calculating and classifying reviews was very advanced and I definitely learned something from your work with the all of the numbers in your analysis.
 
+-- Hi Camryn! Thanks for your suggestion. I forgot about adding visualization, which is an important part of this project! I will add plots for the better understanding of the result :)
+
 ## Moldir's Notes
 
 1. I like your topic and how you are stating/exploring multiple hypotheses! Very impressive! Look forward to see what you will find out at your final report. Also, your repo looks tidy and well-organized! Easy to follow and look around.
@@ -63,3 +65,5 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 2. One suggestion I can think of is to attach the links on the READ.ME file to the corresponding words. The markdown syntax for that would be: [the key word](the corresponding link). In this case, the key word will be highlighted only, and the link will be hidden which makes the text more accessible. 
 
 3. I have learned that we can build a model to explore the correlation between the ratings and the text. 
+
+-- Hello Moldir! Thank you for your comments. But I am not very sure what you mean by 'corresponding words'. I will ask you tomorrow after class ;) 
