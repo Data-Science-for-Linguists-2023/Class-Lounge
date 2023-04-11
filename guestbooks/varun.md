@@ -20,6 +20,8 @@ I like your plot about age distribution! I didnt know that I can sort the x-axis
 * One random comment about the data
 I like that it has `sign` column!! I don't know much about zodiac signs and the salient characteristics of each of them, but it would be really fun to check if those stereotypes are true based on the text I guess?!
 
+Varun's response: It definitely could be, but I'm running the risk of overlap (same goes with reddit data). I do think there's enough data points so user overlaop shouldn't hold too much weight.
+
 ## Seth
 
 * One thing you did well
@@ -34,6 +36,8 @@ Great job on the content of your repository! One suggestion I have is creating a
 
 Your 'distribution of bloggers by age' graph is super cool! It's interesting to see the jump from 13 to 33, from which it never comes back down. 
 
+Varun's response: Index section coming soon!
+
 ## Sen
 
 - Your coding in the jupyter notebooks seems really succint and efficient. It seems that you've given a lot of thought to the types of features that could affect your question, given that you have scripts analyzing both lexical and syntactic features. I'm looking forward to seeing the results of your analysis.
@@ -42,6 +46,8 @@ Your 'distribution of bloggers by age' graph is super cool! It's interesting to 
 
 - I'm used to just throwing all of my code into a jupyter notebook, so it was cool to learn about creating and utilizing Python scripts instead.
 
+Varun's response: Just took one step towards this in my readme/report, but yeah definitely adding an index section before my final submission.
+
 ## Camryn
 
 - Your notebook demonstrates a high level of skill and a lot of thought regarding the various stages of collection and analysis. I really liked your use of scripts within your project as well.
@@ -49,3 +55,5 @@ Your 'distribution of bloggers by age' graph is super cool! It's interesting to 
 - I think your repository could benefit from some more comments and documentation. I wasn't sure where to begin with looking at your repository, so maybe adding some type of order to your README or at the top of your notebooks. Some parts of your notebook are without any explanation, so it would be beneficial to add some more comments or have a summary section at the end of your notebooks summarizing your results.
 
 - The work you did in process_reddit_dataset.ipynb is really interesting, and I definitely learned some stuff about processing the Reddit data. For example, your work to remove mod posts was a good point that I did not think of when parsing my own Reddit data.
+
+Varun's response: For sure, definitely adding an index section before my final submission.
