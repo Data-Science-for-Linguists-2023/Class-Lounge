@@ -62,6 +62,6 @@ Varun's response: For sure, definitely adding an index section before my final s
 
 1. Wow! Your python scripts are very sophisticated and well-commented which helped me understand them better. Also, I like your JNB's structure and how you walk us through the data curation/exploration process in both dataset_analysis and dataset_extraction folders. Well done! 
 
-2. One suggestion would be to elaborate more on the [Age Classificaion/Analysis of Text and Age section](the https://github.com/Data-Science-for-Linguists-2023/Text-Based-Age-Recognition/blob/main/notebooks/dataset_analysis/blog.ipynb). Specifically, what are your hypotheses and how the MNB classifier's performance connected to them. 
+2. One suggestion would be to elaborate more on the [Age Classificaion/Analysis of Text and Age section](https://github.com/Data-Science-for-Linguists-2023/Text-Based-Age-Recognition/blob/main/notebooks/dataset_analysis/blog.ipynb). Specifically, what are your hypotheses and how the MNB classifier's performance connected to them. 
 
 3. The bloggers are mostly young people in their early/late twenties!:-)
