@@ -44,8 +44,8 @@ Your 'distribution of bloggers by age' graph is super cool! It's interesting to 
 
 ## Camryn
 
-1. Your notebook demonstrates a high level of skill and a lot of thought regarding the various stages of collection and analysis. I really liked your use of scripts within your project as well.
+- Your notebook demonstrates a high level of skill and a lot of thought regarding the various stages of collection and analysis. I really liked your use of scripts within your project as well.
 
-2. I think your repository could benefit from some more comments and documentation. I wasn't sure where to begin with looking at your repository, so maybe adding some type of order to your README or at the top of your notebooks. Some parts of your notebook are without any explanation, so it would be beneficial to add some more comments or have a summary section at the end of your notebooks summarizing your results.
+- I think your repository could benefit from some more comments and documentation. I wasn't sure where to begin with looking at your repository, so maybe adding some type of order to your README or at the top of your notebooks. Some parts of your notebook are without any explanation, so it would be beneficial to add some more comments or have a summary section at the end of your notebooks summarizing your results.
 
-3. The work you did in process_reddit_dataset.ipynb is really interesting, and I definitely learned some stuff about processing the Reddit data. For example, your work to remove mod posts was a good point that I did not think of when parsing my own Reddit data.
+- The work you did in process_reddit_dataset.ipynb is really interesting, and I definitely learned some stuff about processing the Reddit data. For example, your work to remove mod posts was a good point that I did not think of when parsing my own Reddit data.
