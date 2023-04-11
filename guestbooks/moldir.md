@@ -40,3 +40,11 @@ I learned that Kazakh-Russian code switching is very common because most Kazakhs
 - **One potential avenue for improvement:** In annotatedDataset.ipynb, after \[62],you comment that "Cyrillic characters are not recognized!" Because I'm unfamiliar with the data set I'm not sure how the work you did prior to that shows that conclusion, so maybe an explanation of what's happening there could be useful. I think it has something to do with Labelbox? But overall it seems really important to your project that Cyrillic character's aren't recognized there! 
 
 - **One thing I learned:** I found out about the Labelbox platform, which seems like a really valuable tool in annotating data!
+
+## Varun
+
+- **One thing I like:** Looks like a lot of raw data processing and parsing, good job! I also really like the end of your JNB which has the summary and future work.
+
+- **One potential avenue for improvement:** Maybe some more detail about the workflow described [here](https://github.com/Data-Science-for-Linguists-2023/Kazakh-Russian-Code-Switching-Analysis/blob/main/screenshots/annotation-workflow.png). It looks super cool, I want to know more!
+
+- **One thing I learned:** Basically everything about this topic is new to me, I'm very impressed.
