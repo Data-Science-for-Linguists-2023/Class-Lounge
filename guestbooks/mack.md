@@ -62,3 +62,17 @@ I appreciate your feedback! I definitely can do some more work on situating what
 - **One potential avenue for improvement:** Maybe some "mission statement" on what you hope to find? The analysis is super good but I want to know what you're thinking and what you might expect to find.
 
 - **One thing I learned:** I actually didn't know about this dataset. Looks super cool!
+
+
+### Soobin
+
+- **One thing I like:** 
+I know you struggled with the question mark in the `gender` column, and I am so glad that you made improvement! I can see that you put A LOT of effort on processing that information. + `discourse_df` data set looks super clean and squeakyyyy
+I also like how you explained every step you made. All the comments were helpful and walked me through your project.
+
+- **One potential avenue for improvement:** 
+In my opinion, for your analysis, looking at the sentence level might be a little hard to grasp what is going on because they are super short. Grouping the sentences by the movie ID (or character ID) and then grouping them by decade could give you a bigger picture and tendency.
+
+- **One thing I learned:** 
+I forgot about `pickle` package. I might use pickle in my project as you did. (pickling the clean data, making new file, and using the pickled data so that I don't have to process the data everytime I open it!)
+I am excited to see your result, especially regarding the hedging words as a person who (kind of) always uses them. (and I just used it again lol)
