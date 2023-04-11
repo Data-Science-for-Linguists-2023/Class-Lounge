@@ -50,9 +50,17 @@ Thanks!
 
 - I learned about the Index Diachronica, which seems like a pretty fascinating dataset. I also learned a lot from your Python scripts, since it's quite different than code I'm used to reading and writing on my own (so many new libraries, so many great functions!)
 
+#### Response
+
+Thanks -- visualizations are definitely in progress!
+
 ### Mack's comments
 1. You've done fantastic work! Its clear that you have spent a lot of time with the data and analyzing it.
 
 2. I think some guidance around IPA/sound production may be beneficial to help deepen the understanding of your work for those outside of linguistic circles.
 
 3. There is so much going on in your code, I can learn a lot by reviewing your scripts and notebooks further.
+
+#### Response
+
+Thank you! Good point -- I'll make sure to give a quick primer when I do my presentation.

@@ -76,4 +76,12 @@ Hi Alex, thank you for your feedback! Initially, the Cyrillic characters were no
 
 ### Moldir's response
 
-Thank you for the feedback, Varun! The workflow description can be found [here](https://github.com/Data-Science-for-Linguists-2023/Kazakh-Russian-Code-Switching-Analysis/blob/main/progress_report.md) under the progress report md file. 
+Thank you for the feedback, Varun! The workflow description can be found [here](https://github.com/Data-Science-for-Linguists-2023/Kazakh-Russian-Code-Switching-Analysis/blob/main/progress_report.md) under the progress report md file.
+
+### Wilson
+
+- **One thing I like:** I really like the organization of your work -- it makes it easy to understand what's going on and what observations you're making.
+
+- **One potential avenue for improvement:** It's a little hard to tell what the JSON data actually represents -- maybe some kind of visualization would help? That might be nice for the presentation especially.
+
+- **One thing I learned:** The whole annotation workflow (and this method of annotating) is totally new to me -- it was really interesting to read about.
