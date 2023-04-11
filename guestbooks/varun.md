@@ -57,3 +57,11 @@ Varun's response: Just took one step towards this in my readme/report, but yeah 
 - The work you did in process_reddit_dataset.ipynb is really interesting, and I definitely learned some stuff about processing the Reddit data. For example, your work to remove mod posts was a good point that I did not think of when parsing my own Reddit data.
 
 Varun's response: For sure, definitely adding an index section before my final submission.
+
+## Moldir
+
+1. Wow! Your python scripts are very sophisticated and well-commented which helped me understand them better. Also, I like your JNB's structure and how you walk us through the data curation/exploration process in both dataset_analysis and dataset_extraction folders. Well done! 
+
+2. One suggestion would be to elaborate more on the [Age Classificaion/Analysis of Text and Age section](the https://github.com/Data-Science-for-Linguists-2023/Text-Based-Age-Recognition/blob/main/notebooks/dataset_analysis/blog.ipynb). Specifically, what are your hypotheses and how the MNB classifier's performance connected to them. 
+
+3. The bloggers are mostly young people in their early/late twenties!:-)

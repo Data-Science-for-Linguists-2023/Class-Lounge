@@ -55,3 +55,11 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 2. I think what you have is great, but it could be beneficial to add some more comments and summary towards the end of your notebook regarding results and what they mean. I also think you should add some more graphs to your notebook for visualizations!
 
 3.  Your way of calculating and classifying reviews was very advanced and I definitely learned something from your work with the all of the numbers in your analysis.
+
+## Moldir's Notes
+
+1. I like your topic and how you are stating/exploring multiple hypotheses! Very impressive! Look forward to see what you will find out at your final report. Also, your repo looks tidy and well-organized! Easy to follow and look around.
+
+2. One suggestion I can think of is to attach the links on the READ.ME file to the corresponding words. The markdown syntax for that would be: [the key word](the corresponding link). In this case, the key word will be highlighted only, and the link will be hidden which makes the text more accessible. 
+
+3. I have learned that we can build a model to explore the correlation between the ratings and the text. 

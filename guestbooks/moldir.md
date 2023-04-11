@@ -17,6 +17,12 @@ I really like your topic! It seems very interesting and I am excited to see how 
 
 3. I learned that Kazakh speakers code switch to Russian *within* words! I am familiar with inter- and intra-sentential switching but this is the first I've heard of intra-word code switch.
 
+
+### Moldir's response
+
+Thank You, Mack for your feedback! I appreciate it. Yes, I am working on translating examples of code-switching types for my presentation and analysis. As you noticed, it wouldn't be possible to translate all of instances code-switching but I will make sure that each CS type has a proper example and explanation on my final report.
+
+
 ### Camryn
 
 I think you have a lot of great work done so far! One thing I really liked is that your jupyter notebook for the datasets was really well formatted, which made it really easy to read and understand what is going on. For example, I really like that you included advantages/disadvantages, and included a spot in the notebook about your future work. 
@@ -24,6 +30,12 @@ I think you have a lot of great work done so far! One thing I really liked is th
 One thing that I think you could improve on is organizing your repository. Having folders or having explanations of what something is and where it is would be super helpful instead of having it all in main part. I also agree with the feedback above that including someEnglish translations would be helpful!
 
 I learned that Kazakh-Russian code switching is very common because most Kazakhs are bilingual! 
+
+
+### Moldir's response
+
+Hi Camryn, thanks so much for your feedback! I reorganized my repo based on your suggestions and hope it looks more readable now:-)
+
 
 ### Ashley
 
@@ -33,6 +45,12 @@ I learned that Kazakh-Russian code switching is very common because most Kazakhs
 
 3. Like Mack said, I learned that code switching can occur intra-word, which is something I hadn't heard of previously. It was especially interesting to learn that intra-word code switching can occur by attaching an affix of one language to a stem of another language, which is fascinating.  
 
+
+### Moldir's response
+
+Thank You for the feedback, Ashley! Since I am working with a standoff annotation (offline) format (meaning annotations are stored separately from the annotated text) shared annotated samples contain only categorical and numerical values like the code-switching tags and subtags and their positions in the text. The API key can be used to map annotations to the text. For security purposes, I am using the API key locally only (as of now). 
+
+
 ## Alex
 
 - **One thing I like:** The data set you're using seems incredibly thorough and complex, and so I really appreciate how thoroughly you explore the data set prior to doing your analysis. And, because your data set is so complex, I appreciated how you would explain and summarize the work you're doing to the reader, for example when you stop and explain what the "recusive_parser" function is.
@@ -41,6 +59,12 @@ I learned that Kazakh-Russian code switching is very common because most Kazakhs
 
 - **One thing I learned:** I found out about the Labelbox platform, which seems like a really valuable tool in annotating data!
 
+
+### Moldir's response
+
+Hi Alex, thank you for your feedback! Initially, the Cyrillic characters were not recognized in the annotated text samples. However, I was able to resolve this issue by using decode("utf-8") method on the annotated text. My apologies for not updating the notes accordingly.
+
+ 
 ## Varun
 
 - **One thing I like:** Looks like a lot of raw data processing and parsing, good job! I also really like the end of your JNB which has the summary and future work.
@@ -48,3 +72,8 @@ I learned that Kazakh-Russian code switching is very common because most Kazakhs
 - **One potential avenue for improvement:** Maybe some more detail about the workflow described [here](https://github.com/Data-Science-for-Linguists-2023/Kazakh-Russian-Code-Switching-Analysis/blob/main/screenshots/annotation-workflow.png). It looks super cool, I want to know more!
 
 - **One thing I learned:** Basically everything about this topic is new to me, I'm very impressed.
+
+
+### Moldir's response
+
+Thank you for the feedback, Varun! The workflow description can be found [here](https://github.com/Data-Science-for-Linguists-2023/Kazakh-Russian-Code-Switching-Analysis/blob/main/progress_report.md) under the progress report md file. 
