@@ -48,3 +48,15 @@ For my project, I am curious to see if the written language style used by reader
     
 - **One thing I learned**:
     I didn't know that we can use piping (|) in the python code!
+    
+
+## Varun
+
+- **One thing I like**: 
+    I like the data collection and preprocessing, you're doing a lot in a concise way!
+
+- **One avenue for improvement**: 
+    Super small avenue for improvement, but in the data samples, I'm a bit confused what the indexes mean - it might mean something that I'm missing, but I would consider a quick .reindex() if not.
+    
+- **One thing I learned**:
+    I learned how to use groupby in a quick, practical way. I've always had trouble with that.

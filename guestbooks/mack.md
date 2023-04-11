@@ -53,3 +53,12 @@ Thanks for your feedback! I have been able to get my data wrangled to a place wh
 
 ### Mack's response
 I appreciate your feedback! I definitely can do some more work on situating what is guiding my analysis on this project. I know I will incorporate it into my presentation and final report, but I will look into adding it to some other documentation to help everything be more clear.
+
+
+### Varun
+
+- **One thing I like:** I really like the readme and structure to the repo, it's really organized and nice!
+
+- **One potential avenue for improvement:** Maybe some "mission statement" on what you hope to find? The analysis is super good but I want to know what you're thinking and what you might expect to find.
+
+- **One thing I learned:** I actually didn't know about this dataset. Looks super cool!
