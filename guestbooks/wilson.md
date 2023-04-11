@@ -17,7 +17,7 @@ I really like that you explained what you are working on in such detail. It woul
 One thing I can sort of recommend for the final analysis is that it might help grouping sounds by their place of articulation since sound changes happen frequently between similar place of articulation (or in the case of vowel, high/low, front/back). You mentioned that you are planning to find which sound change is the most frequent and which is less frequent, so this might help you to grasp the idea..? (I hope it help)
 
 * One thing I learned
-I don't even know what to say in this section cause I honestly do not know what is going on in your python script. It's just too difficult for me to comprehend each code.. Just amazed by your extensive work on this.. 
+I don't even know what to say in this section cause I honestly do not know what is going on in your python script. It's just too difficult for me to comprehend each code.. Just amazed by your extensive work on this..
 
 #### Response
 
@@ -46,6 +46,13 @@ Thanks!
 
 - Your explanations are really detailed and thorough, they do an excellent job walking through your code so that was really helpful (especially as someone without a computer science background).
 
-- You are working with a lot of data and all sorts of variations and changes, but I think some visualizations would definitely go a long way, especially moving from the data parsing to analysis stage. 
+- You are working with a lot of data and all sorts of variations and changes, but I think some visualizations would definitely go a long way, especially moving from the data parsing to analysis stage.
 
 - I learned about the Index Diachronica, which seems like a pretty fascinating dataset. I also learned a lot from your Python scripts, since it's quite different than code I'm used to reading and writing on my own (so many new libraries, so many great functions!)
+
+### Mack's comments
+1. You've done fantastic work! Its clear that you have spent a lot of time with the data and analyzing it.
+
+2. I think some guidance around IPA/sound production may be beneficial to help deepen the understanding of your work for those outside of linguistic circles.
+
+3. There is so much going on in your code, I can learn a lot by reviewing your scripts and notebooks further.
