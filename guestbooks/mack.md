@@ -47,3 +47,11 @@ Thanks for the feedback! I finally solidified what can be shared so I have a cop
 - **One potential avenue for improvement:** It would be nice to have some sort of statement in one of the notebooks lightly touching on some of the methods you plan on using during analysis to explain to readers why you are curating your data set in a specific way. It makes sense to focus in on the gender markers, since that's what the project is titled around, but overall it would be useful to get a clearer sense of how each DataFrame is connected to each other and what purpose they fulfill in your project. I think I understand how they're connected through IDs, but a blanket statement explaining it might be nice.
 
 - **One thing I learned:** I was surprised to see how many more movies are from the 1990s in this corpus! I'd presume the number of movies produced in any given years had only increased over time. It makes me curious about how the original data set was collected.
+
+## Varun
+
+- **One thing I like:** I really like the readme and structure to the repo, it's really organized and nice!
+
+- **One potential avenue for improvement:** Maybe some "mission statement" on what you hope to find? The analysis is super good but I want to know what you're thinking and what you might expect to find.
+
+- **One thing I learned:** I actually didn't know about this dataset. Looks super cool!
