@@ -7,11 +7,11 @@ hey!
 ## Soobin
 
 * One thing I think is done well
-I like how you organized data succintly. You well prepared your data for the feature engineering. I am excited to see your next move! 
+I like how you organized data succintly. You well prepared your data for the feature engineering. I am excited to see your next move!
 
 * One suggestion
 I think it might improve the result if you divide the age group a little differently. I am not sure which age is the youngest in your dataset, but it seems like 13 is the youngest. (I am saying this based on your plot.) You set the bin for the age group as 10, 19, 29, 39, and if 13 is the youngest, there could be a problem because people who is between 13-19 would fall into 10s, while 20-29 would fall into 20s. Same applied for the 40s group if the oldest age is 48.
-Also, you removed `id` column. Seems like there are more than one blog written by one person, and if you remove id value, the result could be a little skewed? 
+Also, you removed `id` column. Seems like there are more than one blog written by one person, and if you remove id value, the result could be a little skewed?
 Well, there are more than enough data for younger generations, but for the blogs written by 40s, it would be a little tricky to interpret whether it is truly the characteristic of 40s or if it's just one (or two) person's writing habit.
 
 * One thing I learned
@@ -30,11 +30,11 @@ Your repository is really interesting! Using Python scripts instead of the often
 
 * One avenue for improvement
 
-Great job on the content of your repository! One suggestion I have is creating a 'roadmap' within your repo that can guide users in exploring your data/analysis, as I found the number of files a bit overwhelming. 
+Great job on the content of your repository! One suggestion I have is creating a 'roadmap' within your repo that can guide users in exploring your data/analysis, as I found the number of files a bit overwhelming.
 
 * One thing I learned
 
-Your 'distribution of bloggers by age' graph is super cool! It's interesting to see the jump from 13 to 33, from which it never comes back down. 
+Your 'distribution of bloggers by age' graph is super cool! It's interesting to see the jump from 13 to 33, from which it never comes back down.
 
 Varun's response: Index section coming soon!
 
@@ -60,8 +60,16 @@ Varun's response: For sure, definitely adding an index section before my final s
 
 ## Moldir
 
-1. Wow! Your python scripts are very sophisticated and well-commented which helped me understand them better. Also, I like your JNB's structure and how you walk us through the data curation/exploration process in both dataset_analysis and dataset_extraction folders. Well done! 
+1. Wow! Your python scripts are very sophisticated and well-commented which helped me understand them better. Also, I like your JNB's structure and how you walk us through the data curation/exploration process in both dataset_analysis and dataset_extraction folders. Well done!
 
-2. One suggestion would be to elaborate more on the [Age Classificaion/Analysis of Text and Age section](https://github.com/Data-Science-for-Linguists-2023/Text-Based-Age-Recognition/blob/main/notebooks/dataset_analysis/blog.ipynb). Specifically, what are your hypotheses and how the MNB classifier's performance connected to them. 
+2. One suggestion would be to elaborate more on the [Age Classificaion/Analysis of Text and Age section](https://github.com/Data-Science-for-Linguists-2023/Text-Based-Age-Recognition/blob/main/notebooks/dataset_analysis/blog.ipynb). Specifically, what are your hypotheses and how the MNB classifier's performance connected to them.
 
 3. The bloggers are mostly young people in their early/late twenties!:-)
+
+## Mack
+
+1. Your repo is incredibly organized and easy to navigate. You have a lot of components, but the structure of everything keeps it from being overwhelming.
+
+2. Your notebooks are very clean because you have scripts in a separate folder, maybe you can link to the .py scripts or provide some documentation in the JNB about what each script does to provide better transparency on the data processing.
+
+3. I like the plan for your project! I think capturing different age groups interacting with the same media will provide some interesting results.
