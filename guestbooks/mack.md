@@ -32,7 +32,7 @@ Thank you for this! I took some time on the last progress report to get my landi
 
 Thanks for the feedback! I finally solidified what can be shared so I have a copy of all of the data in my repo and will make my code and the data frames created completely open as well.
 
-## Wilson
+### Wilson
 
 - **One thing I like:** I like the idea of your analysis a lot, and I think the end result will be really interesting to see.
 
@@ -40,10 +40,16 @@ Thanks for the feedback! I finally solidified what can be shared so I have a cop
 
 - **One thing I learned:** I didn't know NLTK had a names corpus -- I'm not sure how I would have approached figuring out what gender names are, but that names corpus seems super helpful.
 
-## Alex
+### Mack's response
+Thanks for your feedback! I have been able to get my data wrangled to a place where I have begun my analysis now. My largest hurdle was trying to get as many characters gender-coded as possible.
 
-- **One thing I like:** Your process cleaning and reorganizing your data is extrememly thorough and explained well. There doesn't seem to be much analysis yet, but with the amount of work you've done to collect you're data I you're on a really good path for addressing analysis later. 
+### Alex
+
+- **One thing I like:** Your process cleaning and reorganizing your data is extrememly thorough and explained well. There doesn't seem to be much analysis yet, but with the amount of work you've done to collect you're data I you're on a really good path for addressing analysis later.
 
 - **One potential avenue for improvement:** It would be nice to have some sort of statement in one of the notebooks lightly touching on some of the methods you plan on using during analysis to explain to readers why you are curating your data set in a specific way. It makes sense to focus in on the gender markers, since that's what the project is titled around, but overall it would be useful to get a clearer sense of how each DataFrame is connected to each other and what purpose they fulfill in your project. I think I understand how they're connected through IDs, but a blanket statement explaining it might be nice.
 
 - **One thing I learned:** I was surprised to see how many more movies are from the 1990s in this corpus! I'd presume the number of movies produced in any given years had only increased over time. It makes me curious about how the original data set was collected.
+
+### Mack's response
+I appreciate your feedback! I definitely can do some more work on situating what is guiding my analysis on this project. I know I will incorporate it into my presentation and final report, but I will look into adding it to some other documentation to help everything be more clear.
