@@ -66,3 +66,15 @@ Hi, Wilson! Thank you for your feedback. I have fixed my issue of printing out l
 ### Camryn's response
 
 Hi, Varun! Thank you for your feedback. Like I said in my response to Wilson, I have since fixed the issue of printing out way too much. I wasn't aware this was an issue as Jupyter notebook collapses some of this output (as compared to GitHub where all of it is printed), so I definitely appreciate you both pointing that out for me! I am also glad my work helped you gain more information about parsing PRAW output.
+
+
+## Soobin
+
+- **One thing I like:** 
+I like how simple yet efficient your codes are. Also, I learned another example of using `lambda x` function from your code. I also liked that you used different colors for different plots and it helped me understand that each plot is made out of different data set.
+
+- **One potential avenue for improvement:** 
+Only one thing I can thing of to quibble is, maybe reversing x axis and y axis in the plots could help a little. It was a bit hard to read what each bar stands for.
+
+- **One thing I learned:** 
+As I mentioned above, I learned many efficient coding skill from your code, including `lambda x` function. Seems like you almost finished it. Congrats! :D
