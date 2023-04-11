@@ -47,3 +47,11 @@ You did everything thoroughly! One nitpick I have is that, toward the end of the
 The method you used to calculate positive vs. negative reviews for each TED talk was clever!
 
 -- Hi Seth! Thanks a lot for your comments. And sorry for bothering you with my Korean comments. I left it in Korean thinking that I will revise it later, and I forget.
+
+## Camryn's Notes
+
+1. You have a great level of exploration and analysis within your notebook. I think your findings are really fascinating. In addition, I really like your comments throughout your notebook, they make it easy to follow what is going on.
+
+2. I think what you have is great, but it could be beneficial to add some more comments and summary towards the end of your notebook regarding results and what they mean. I also think you should add some more graphs to your notebook for visualizations!
+
+3.  Your way of calculating and classifying reviews was very advanced and I definitely learned something from your work with the all of the numbers in your analysis.
