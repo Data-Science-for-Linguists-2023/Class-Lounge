@@ -49,6 +49,7 @@ For my project, I am curious to see if the written language style used by reader
 - **One thing I learned**:
     I didn't know that we can use piping (|) in the python code!
     
+**Ashley's Response:** Hi Soobin, thanks for your feedback! Believe me, I did cause my computer to crash many times! It was thanks to someone else's suggestion that I started pickling the files, so I really appreciate all your suggestions.
 
 ## Varun
 
@@ -60,3 +61,5 @@ For my project, I am curious to see if the written language style used by reader
     
 - **One thing I learned**:
     I learned how to use groupby in a quick, practical way. I've always had trouble with that.
+
+**Ashley's Response:** Hi Varun, thanks for your feedback! You're completely right about the indexes - they're a bit messed up because of the sampling and joining, and I totally forgot to reindex. I'll go back and see if I can fix that, thanks for the suggestion!
