@@ -67,3 +67,11 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 3. I have learned that we can build a model to explore the correlation between the ratings and the text. 
 
 -- Hello Moldir! Thank you for your comments. But I am not very sure what you mean by 'corresponding words'. I think I should ask you tomorrow after class ;) 
+
+## Ashley's Notes
+
+1. You did a great job wrangling with the with the Ratings data and finding a way to add that to your dataframe. I liked how you tested out your code on smaller samples before working on all the data, and I shared your excitement when you finally got it to work! 
+
+2. One suggestion would be to include some more visualizations. I really liked the graph you included to show no correlation between k-band and comments, so especially once you get into developing your classifier, more visualizations like that would be helpful to understand the data better.
+
+3. I was surprised to learn how many different variations of Ted Talks there were, especially that some (like with the high average k-bands), can be performances. Very interesting, and good job digging into your data!
