@@ -63,3 +63,11 @@ For my project, I am curious to see if the written language style used by reader
     I learned how to use groupby in a quick, practical way. I've always had trouble with that.
 
 **Ashley's Response:** Hi Varun, thanks for your feedback! You're completely right about the indexes - they're a bit messed up because of the sampling and joining, and I totally forgot to reindex. I'll go back and see if I can fix that, thanks for the suggestion!
+
+## Sen
+
+-**One thing I like**: How much work you've put into your project so far really shows. You approach the data from so many angles, including a bunch of descriptive stats, visualizations, paying attention to features such as numerical text features, sentiment, and POS. So thorough. 
+
+-**One avenue for improvement**: Commenting your code a bit more, especially for the larger code chunks, might be helpful to orient your reader (and future you).
+
+-**One thing I learned**: I learned about NLTK's sentiment library. Looks like it'd be fun to experiment with.

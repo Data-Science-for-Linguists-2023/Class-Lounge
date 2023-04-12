@@ -31,3 +31,11 @@ Hello! Thanks for visiting my guestbook.
 
 - **One thing I learned:**
     I also did not know that there is a package for Reddit scraping! So cool to learn.
+
+### Sen
+
+- Your topic is really fun and well-thought out. You also explain your thought process in a lot of detail in your progress report which I find helpful. I'm looking forward to seeing how your analysis comes together. 
+
+- I think the passive versus active voice is a good linguistic construction to analyze, but I think others might be necessary too. Maybe you could compile a list of words that people might use when blaming/shifting the blame and see how frequently they occur in asshole vs non-asshole posts. 
+
+- I learned a lot more about SpaCy from checking out your code. 
