@@ -15,11 +15,19 @@ Hello! Thanks for visiting my guestbook.
 
 ### varun
 
-#### one thing i think is done well
-i love the project idea, i read it and i went "dang that's good"
+- **one thing i think is done well:** i love the project idea, i read it and i went "dang that's good"
 
-#### one suggestion
-maybe consider the role comments have to play? not just the up/down numbers but what they're saying? not sure if you are using that already for validation
+- **one suggestion:** maybe consider the role comments have to play? not just the up/down numbers but what they're saying? not sure if you are using that already for validation
 
-#### one thing i learned
-i didn't know the PMAW existed, definitely good to know since i am working with reddit data!
+- **one thing i learned:** i didn't know the PMAW existed, definitely good to know since i am working with reddit data!
+
+### Soobin
+
+- **One thing I liked:**
+    I liked how in detail you explained your steps. It was very easy to follow your process of thoughts.
+
+- **One potential avenue for improvement:**
+    I believe you can uppercase the column names using .upper() method with for list comprehension. This was the only quibble I had.
+
+- **One thing I learned:**
+    I also did not know that there is a package for Reddit scraping! So cool to learn.

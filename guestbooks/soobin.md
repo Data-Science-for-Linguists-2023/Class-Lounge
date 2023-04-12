@@ -15,6 +15,8 @@ Soobin, I think that you've chosen an interesting topic, and I'm curious to see 
 
 Based on your summary and progress report it seems you are still trying to figure out a working hypothesis. I think there are a lot of different lexical or linguistic features of speeches/talks that could affect the popularity or engagement that it receives. Some that come to mind are the speaker's tone, interrogatives like rhetorical questions, personal language, and emotional langauge, so you could try investigating those. You could also take measurements of features such as TTR and average sentence length to see if viewers prefer talks with more simple straightforward language or more complexity.
 
+-- Hey Sen! Thanks for your feedback. I've never told you, but I want to say that I always appreciate your help and support. You mentioned sentence length, and I am considering to use sentence length as an indicator of negative review because there is one ratings called 'long-winded', and Dr. Han suggested me to consider the correlation between them. Thanks a lot again and see u soon in class *kiss kiss*
+
 ## Mack's Notes
 
 I like the various hypotheses you have about what you think you will find. A lot of them make sense and I am curious if your analysis will support the hypotheses or generate something unexpected.
@@ -24,6 +26,9 @@ I like the various hypotheses you have about what you think you will find. A lot
 2. I think your notebook could use a little more commentary to help the reader understand what you are doing at each step and why. You've done a lot of great work wrangling with the data, so some comments and text will help us follow along.
 
 3. I did not know there were these data out there on TED talks.
+
+-- Henlo Mack! Thanks for your feedback. Like I said above to Sen, I always appreciate your support in so many aspects of my life. Soooo, it seems like my data is giving me something that I didn't expected in the beginning of this journey. Hope that I can get something interesting to you! :) see ya *muah*
+
 
 ## Seth's Notes
 
@@ -40,3 +45,25 @@ You did everything thoroughly! One nitpick I have is that, toward the end of the
 3. One thing I learned
 
 The method you used to calculate positive vs. negative reviews for each TED talk was clever!
+
+-- Hi Seth! Thanks a lot for your comments. And sorry for bothering you with my Korean comments. I left it in Korean thinking that I will revise it later, and I forget.
+
+## Camryn's Notes
+
+1. You have a great level of exploration and analysis within your notebook. I think your findings are really fascinating. In addition, I really like your comments throughout your notebook, they make it easy to follow what is going on.
+
+2. I think what you have is great, but it could be beneficial to add some more comments and summary towards the end of your notebook regarding results and what they mean. I also think you should add some more graphs to your notebook for visualizations!
+
+3.  Your way of calculating and classifying reviews was very advanced and I definitely learned something from your work with the all of the numbers in your analysis.
+
+-- Hi Camryn! Thanks for your suggestion. I forgot about adding visualization, which is an important part of this project! I will add plots for the better understanding of the result :)
+
+## Moldir's Notes
+
+1. I like your topic and how you are stating/exploring multiple hypotheses! Very impressive! Look forward to see what you will find out at your final report. Also, your repo looks tidy and well-organized! Easy to follow and look around.
+
+2. One suggestion I can think of is to attach the links on the READ.ME file to the corresponding words. The markdown syntax for that would be: [the key word](the corresponding link). In this case, the key word will be highlighted only, and the link will be hidden which makes the text more accessible. 
+
+3. I have learned that we can build a model to explore the correlation between the ratings and the text. 
+
+-- Hello Moldir! Thank you for your comments. But I am not very sure what you mean by 'corresponding words'. I think I should ask you tomorrow after class ;) 

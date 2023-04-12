@@ -42,3 +42,39 @@ Hi, Ashley! Thank you for your feedback. There is definitely a way to get commen
 ### Camryn's response
 
 Hi, Alex! Thank you for your feedback. I talk a bit about why I save certain information regarding posts, such as number of upvotes, in my [Project Plan](https://github.com/Data-Science-for-Linguists-2023/For-Reddit-Grammaticality-Analysis/blob/main/project_plan.md). Essentially, if time permits, I want to see if grammaticality has any impact on the interactions that a post my receive. I figured I would save that information to the dataframe while I was collecting them, instead of having to query for a bunch of additional information regarding 10k+ posts later, which is why they are there. But, you are definitely right in that I should have a comment explaining what information I collect and why in my notebooks.
+
+## Wilson
+
+- **One thing I like:** I think your repo is really well-organized -- I like how you outline its structure in the README and give an outline in the beginning of every notebook. (Unfortunately the outline links don't seem to work...)
+
+- **One potential avenue for improvement:** Instead of printing out entire lists in the notebook, maybe just print a summary of the data or the head of the data. It makes it hard to navigate the notebook when there are hundreds of lines being printed from a single list.
+
+- **One thing I learned:** I assumed `language-tool-python` would have issues with links, but it makes sense that it parses them (and other markdown syntax) correctly -- I actually have a VSCode extension that uses LanguageTool to spellcheck and grammar-check markdown and LaTeX files.
+
+### Camryn's response
+
+Hi, Wilson! Thank you for your feedback. I have fixed my issue of printing out large unnecessary lines of code, so my notebooks should be easier to navigate now, so thank you for pointing that out! Also, that is really interesting about the VSCode extension, I had no idea there was an extension that used that tool!
+
+## Varun
+
+- **One thing I like:** I like the analysis section in your notebook, it goes into detail and leverages knowledge of linguistic features that are relevant!
+
+- **One potential avenue for improvement:** Similar to Wilson's comment, the printing makes the notebook get really long. Maybe have a quick summary instead.
+
+- **One thing I learned:** I learned a quicker way to parse the praw output and quickly get features that are relevant to the post.
+
+### Camryn's response
+
+Hi, Varun! Thank you for your feedback. Like I said in my response to Wilson, I have since fixed the issue of printing out way too much. I wasn't aware this was an issue as Jupyter notebook collapses some of this output (as compared to GitHub where all of it is printed), so I definitely appreciate you both pointing that out for me! I am also glad my work helped you gain more information about parsing PRAW output.
+
+
+## Soobin
+
+- **One thing I like:** 
+I like how simple yet efficient your codes are. Also, I learned another example of using `lambda x` function from your code. I also liked that you used different colors for different plots and it helped me understand that each plot is made out of different data set.
+
+- **One potential avenue for improvement:** 
+Only one thing I can thing of to quibble is, maybe reversing x axis and y axis in the plots could help a little. It was a bit hard to read what each bar stands for.
+
+- **One thing I learned:** 
+As I mentioned above, I learned many efficient coding skill from your code, including `lambda x` function. Seems like you almost finished it. Congrats! :D

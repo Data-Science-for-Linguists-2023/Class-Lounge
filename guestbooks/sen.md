@@ -47,3 +47,10 @@ I think you have made really great progress!
 
 3. I'm so interested in this PyLangAcq library! Especially when you were able to use the library to annotate the corpus for each token's part of speech and morpheme, I was amazed at how much using the right tools could help your data processing and analysis - I had no idea something like this existed and will definitely be taking a look at additional Python libraries for my own project.
 
+### Wilson
+
+- **One thing I like:** I think the concept of your analysis is really interesting and it's really easy to understand what exactly your goals are. 
+
+- **One potential avenue for improvement:** It's not a big deal at all (especially since you already wrote the code) but the `get_<feature>` functions could probably be refactored into one function that takes a regex pattern as a parameter. Everything else in the functions is the same, so you have a lot of repeated code.
+
+- **One thing I learned:** I didn't know there was a set idea of a general morpheme acquisition order for language learners -- I would have assumed it varied too much for something like that to really make sense. I guess that's what your analysis is investigating -- whether that set order is really valid.
