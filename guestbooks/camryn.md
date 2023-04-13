@@ -78,3 +78,7 @@ Only one thing I can thing of to quibble is, maybe reversing x axis and y axis i
 
 - **One thing I learned:** 
 As I mentioned above, I learned many efficient coding skill from your code, including `lambda x` function. Seems like you almost finished it. Congrats! :D
+
+### Camryn's response
+
+Hi, Soobin! Thank you for your feedback. I also agree that the x axis labels are hard to read. I will try to find a better way of displaying that! I am also glad you learned something, specifically lambda x, from my code!

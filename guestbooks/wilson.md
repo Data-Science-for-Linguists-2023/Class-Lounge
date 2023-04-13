@@ -64,3 +64,11 @@ Thanks -- visualizations are definitely in progress!
 #### Response
 
 Thank you! Good point -- I'll make sure to give a quick primer when I do my presentation.
+
+### Camryn's comments
+
+1. Your project looks great! You've done a lot of complex work and it shows. I really like your use of scripts within your project, as well.
+
+2. I think your notebooks could use some comments. There is a lot of code, and not a ton of explanation as to what it is doing. Also, I would clean up some of the warnings that you have in your notebooks for readability.
+
+3. Your code is very succinct, so I definitely learned some things about writing code in a line or two rather than a whole block of code.

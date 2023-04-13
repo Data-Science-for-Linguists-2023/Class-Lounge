@@ -39,3 +39,10 @@ Hello! Thanks for visiting my guestbook.
 - I think the passive versus active voice is a good linguistic construction to analyze, but I think others might be necessary too. Maybe you could compile a list of words that people might use when blaming/shifting the blame and see how frequently they occur in asshole vs non-asshole posts. 
 
 - I learned a lot more about SpaCy from checking out your code. 
+
+### Camryn 
+- **One thing I like:** As others have said, you have a really unique project idea. I also really appreciated your notes/comments throughout your notebooks.
+
+- **One potential avenue for improvement:** This is more of a picky thing, but maybe having a summary section at the end of each question, so the results of each are more obvious. Also, if you are having issues with the sentences, regex could potentially be used to clean up some of the sentences that are giving you trouble.
+
+- **One thing I learned:** I learned how to use displacy(from spacy), which is a cool feature with really interesting output!
