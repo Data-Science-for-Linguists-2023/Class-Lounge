@@ -54,3 +54,11 @@ I think you have made really great progress!
 - **One potential avenue for improvement:** It's not a big deal at all (especially since you already wrote the code) but the `get_<feature>` functions could probably be refactored into one function that takes a regex pattern as a parameter. Everything else in the functions is the same, so you have a lot of repeated code.
 
 - **One thing I learned:** I didn't know there was a set idea of a general morpheme acquisition order for language learners -- I would have assumed it varied too much for something like that to really make sense. I guess that's what your analysis is investigating -- whether that set order is really valid.
+
+### Varun
+
+- **One thing I like:** I like the pretty printing. Also the "You are here" markings and the documentation. Very nice.
+
+- **One potential avenue for improvement:** I did notice 2 blank PNGs in the folder, but it might just be like that on git or just on my browser.
+
+- **One thing I learned:** I learned about PyLangAcq. Pretty cool!
