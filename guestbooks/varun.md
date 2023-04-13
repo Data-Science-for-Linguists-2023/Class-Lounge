@@ -78,6 +78,6 @@ Varun's response: For sure, definitely adding an index section before my final s
 
 1. I love how much thought you clearly put into your data collection, especially adding the Reddit data. Your thought process for which subreddits should represent which age groups as well as your conclusion to use comments for the r/AskPeopleOver30 because the 30-year-olds are the ones responding rather than the ones asking shows that you've really thought this whole thing through, so great work!
 
-2. One suggestion would be to 
+2. Your use of Python scripts keeps your notebooks very clean, but one suggestion would be to either include in your existing notebooks or make new notebooks to demonstrate what exactly these scripts achieve. Walking through the scripts on a small sample of data in a Jupyter Notebook would likely help viewers who are a bit less familiar with NLP better understand your code.
 
 3. Looking over your repo helped me learn just how much spaCy library has to offer in terms of text analysis, and through your Python scripts I learned some great techniques for isolating specific words/punctuation to analyze further. I might base some of my own code off of these strategies, they're really well done!
