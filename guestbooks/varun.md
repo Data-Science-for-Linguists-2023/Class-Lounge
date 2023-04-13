@@ -73,3 +73,11 @@ Varun's response: For sure, definitely adding an index section before my final s
 2. Your notebooks are very clean because you have scripts in a separate folder, maybe you can link to the .py scripts or provide some documentation in the JNB about what each script does to provide better transparency on the data processing.
 
 3. I like the plan for your project! I think capturing different age groups interacting with the same media will provide some interesting results.
+
+## Ashley
+
+1. I love how much thought you clearly put into your data collection, especially adding the Reddit data. Your thought process for which subreddits should represent which age groups as well as your conclusion to use comments for the r/AskPeopleOver30 because the 30-year-olds are the ones responding rather than the ones asking shows that you've really thought this whole thing through, so great work!
+
+2. One suggestion would be to 
+
+3. Looking over your repo helped me learn just how much spaCy library has to offer in terms of text analysis, and through your Python scripts I learned some great techniques for isolating specific words/punctuation to analyze further. I might base some of my own code off of these strategies, they're really well done!
