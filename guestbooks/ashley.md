@@ -71,3 +71,5 @@ For my project, I am curious to see if the written language style used by reader
 -**One avenue for improvement**: Commenting your code a bit more, especially for the larger code chunks, might be helpful to orient your reader (and future you).
 
 -**One thing I learned**: I learned about NLTK's sentiment library. Looks like it'd be fun to experiment with.
+
+**Ashley's Response:** Hi Sen, thanks for your feedback! I definitely agree about commenting and plan to go back and add a bit more step-by-step guidelines of my process. Thanks for pointing that out!
