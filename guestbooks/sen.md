@@ -62,3 +62,15 @@ I think you have made really great progress!
 - **One potential avenue for improvement:** I did notice 2 blank PNGs in the folder, but it might just be like that on git or just on my browser.
 
 - **One thing I learned:** I learned about PyLangAcq. Pretty cool!
+
+
+### Soobin
+yoooo 
+- One thing I like is that you incorporated three (or four?) different data sets for this project. What a 'due diligence'. lol
+
+- While reading your data_curation_cont.ipynb file, I got curious why you set the limitation of the `Years_Study` columns as 7. Is there any article that talks about the age of L1 speaker and the stage of acquiring morphemes? Like, Do native speakers of English acquire most of the English morphemes around the age of 7?
+
+- Wow, i didn'kt know about the R. Brown's paper about the morpheme acquisition order. So interesting.
+
+I can't wait to see your final result!!
+
