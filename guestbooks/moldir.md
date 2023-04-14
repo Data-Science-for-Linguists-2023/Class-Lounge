@@ -85,3 +85,12 @@ Thank you for the feedback, Varun! The workflow description can be found [here](
 - **One potential avenue for improvement:** It's a little hard to tell what the JSON data actually represents -- maybe some kind of visualization would help? That might be nice for the presentation especially.
 
 - **One thing I learned:** The whole annotation workflow (and this method of annotating) is totally new to me -- it was really interesting to read about.
+
+
+### Soobin
+
+- I liked how you explained the intra- inter- sentential examples, reader-friendly. This is very interesting topic and I think it could be extended to other common type of bilingual pair such as spanish-english. Also, I can see your hard working on annotation. Very impressive!
+
+- I can understand visualization in your project is a little hard, but maybe you can make more visualizations such as the count of inter- intra- sentential code switching. 
+
+- I learned about the `labelbox` platform, which I might need in the future. Great job Moldir! :D
