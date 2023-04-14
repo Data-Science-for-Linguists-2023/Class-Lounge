@@ -20,7 +20,7 @@ For my project, I am curious to see if the written language style used by reader
 
 ## Seth
 
-- **I Like**: The amount of work you put into cleaning up and rearranging your dataframes was incredible! The work you put in here will make the second phase of your project that much easier. 
+- **I Like**: The amount of work you put into cleaning up and rearranging your dataframes was incredible! The work you put in here will make the second phase of your project that much easier.
 
 - **An avenue for improvement**: As Wilson said above, there is a lot of code that could potentially be simplified by allowing all repeat parts to be completed by a function. Also, for comparisons such as en-BR, en-US, eng, you could potentially simplify it to one comparison by comparing the first two characters to 'en' (if there are no other en languages).
 
@@ -34,17 +34,49 @@ For my project, I am curious to see if the written language style used by reader
 
 - **One avenue for improvement**: I think that it's potentially fine for all the code to be written out if you're trying to be thorough in reading through the process. But maybe a note or something that let's readers know that you're going to start cycling through all the genres would be helpful as I wasn't entirely sure if you were done with your initial processing of the Children's data.
 
-- **One thing I learned**: I haven't interacted with Goodreads a lot before, but I was really surprised at just how many languages are incoded into it's metadata! 
+- **One thing I learned**: I haven't interacted with Goodreads a lot before, but I was really surprised at just how many languages are incoded into it's metadata!
 
 **Ashley's Response:** Hi Alex, thanks for your feedback! You make a great point about explaining my process a bit more - I got so caught up in the data processing that I tended to forget those reading don't know what's going on unless I explain. I'll definitely go back and add some additional notes to make things more clear, especially when repeating the process through new genres. Thanks again!
 
 ## Soobin
 
-- **One thing I like**: 
+- **One thing I like**:
     I like that you utilized `pickle` package a lot since handling this ginormous data could easily lead to crash.
 
-- **One avenue for improvement**: 
+- **One avenue for improvement**:
     The only thing to quibble is that, there could be a way to simplify the code in 51st cell. you are using '|' operator to filter the language code, and you can do the same operation if you use `.isin()` method.
-    
+
 - **One thing I learned**:
     I didn't know that we can use piping (|) in the python code!
+
+**Ashley's Response:** Hi Soobin, thanks for your feedback! Believe me, I did cause my computer to crash many times! It was thanks to someone else's suggestion that I started pickling the files, so I really appreciate all your suggestions.
+
+## Varun
+
+- **One thing I like**:
+    I like the data collection and preprocessing, you're doing a lot in a concise way!
+
+- **One avenue for improvement**:
+    Super small avenue for improvement, but in the data samples, I'm a bit confused what the indexes mean - it might mean something that I'm missing, but I would consider a quick .reindex() if not.
+
+- **One thing I learned**:
+    I learned how to use groupby in a quick, practical way. I've always had trouble with that.
+
+**Ashley's Response:** Hi Varun, thanks for your feedback! You're completely right about the indexes - they're a bit messed up because of the sampling and joining, and I totally forgot to reindex. I'll go back and see if I can fix that, thanks for the suggestion!
+
+## Sen
+
+-**One thing I like**: How much work you've put into your project so far really shows. You approach the data from so many angles, including a bunch of descriptive stats, visualizations, paying attention to features such as numerical text features, sentiment, and POS. So thorough.
+
+-**One avenue for improvement**: Commenting your code a bit more, especially for the larger code chunks, might be helpful to orient your reader (and future you).
+
+-**One thing I learned**: I learned about NLTK's sentiment library. Looks like it'd be fun to experiment with.
+
+**Ashley's Response:** Hi Sen, thanks for your feedback! I definitely agree about commenting and plan to go back and add a bit more step-by-step guidelines of my process. Thanks for pointing that out!
+
+## Mack
+1. It's really smart to include so many different linguistic elements of the reviews in your analysis. Looking at the data from several angles should help your results!
+
+2. You have an entire notebook for analysis but have a small analysis section at the end of the compiling data notebook. Maybe move all the analysis bits together into one?
+
+3. I learned about the nostril nonsense package! This is a really cool tool.

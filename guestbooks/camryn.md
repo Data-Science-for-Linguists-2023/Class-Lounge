@@ -50,3 +50,35 @@ Hi, Alex! Thank you for your feedback. I talk a bit about why I save certain inf
 - **One potential avenue for improvement:** Instead of printing out entire lists in the notebook, maybe just print a summary of the data or the head of the data. It makes it hard to navigate the notebook when there are hundreds of lines being printed from a single list.
 
 - **One thing I learned:** I assumed `language-tool-python` would have issues with links, but it makes sense that it parses them (and other markdown syntax) correctly -- I actually have a VSCode extension that uses LanguageTool to spellcheck and grammar-check markdown and LaTeX files.
+
+### Camryn's response
+
+Hi, Wilson! Thank you for your feedback. I have fixed my issue of printing out large unnecessary lines of code, so my notebooks should be easier to navigate now, so thank you for pointing that out! Also, that is really interesting about the VSCode extension, I had no idea there was an extension that used that tool!
+
+## Varun
+
+- **One thing I like:** I like the analysis section in your notebook, it goes into detail and leverages knowledge of linguistic features that are relevant!
+
+- **One potential avenue for improvement:** Similar to Wilson's comment, the printing makes the notebook get really long. Maybe have a quick summary instead.
+
+- **One thing I learned:** I learned a quicker way to parse the praw output and quickly get features that are relevant to the post.
+
+### Camryn's response
+
+Hi, Varun! Thank you for your feedback. Like I said in my response to Wilson, I have since fixed the issue of printing out way too much. I wasn't aware this was an issue as Jupyter notebook collapses some of this output (as compared to GitHub where all of it is printed), so I definitely appreciate you both pointing that out for me! I am also glad my work helped you gain more information about parsing PRAW output.
+
+
+## Soobin
+
+- **One thing I like:** 
+I like how simple yet efficient your codes are. Also, I learned another example of using `lambda x` function from your code. I also liked that you used different colors for different plots and it helped me understand that each plot is made out of different data set.
+
+- **One potential avenue for improvement:** 
+Only one thing I can thing of to quibble is, maybe reversing x axis and y axis in the plots could help a little. It was a bit hard to read what each bar stands for.
+
+- **One thing I learned:** 
+As I mentioned above, I learned many efficient coding skill from your code, including `lambda x` function. Seems like you almost finished it. Congrats! :D
+
+### Camryn's response
+
+Hi, Soobin! Thank you for your feedback. I also agree that the x axis labels are hard to read. I will try to find a better way of displaying that! I am also glad you learned something, specifically lambda x, from my code!

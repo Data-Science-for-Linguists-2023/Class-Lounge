@@ -31,3 +31,25 @@ Hello! Thanks for visiting my guestbook.
 
 - **One thing I learned:**
     I also did not know that there is a package for Reddit scraping! So cool to learn.
+
+### Sen
+
+- Your topic is really fun and well-thought out. You also explain your thought process in a lot of detail in your progress report which I find helpful. I'm looking forward to seeing how your analysis comes together.
+
+- I think the passive versus active voice is a good linguistic construction to analyze, but I think others might be necessary too. Maybe you could compile a list of words that people might use when blaming/shifting the blame and see how frequently they occur in asshole vs non-asshole posts.
+
+- I learned a lot more about SpaCy from checking out your code.
+
+### Camryn
+- **One thing I like:** As others have said, you have a really unique project idea. I also really appreciated your notes/comments throughout your notebooks.
+
+- **One potential avenue for improvement:** This is more of a picky thing, but maybe having a summary section at the end of each question, so the results of each are more obvious. Also, if you are having issues with the sentences, regex could potentially be used to clean up some of the sentences that are giving you trouble.
+
+- **One thing I learned:** I learned how to use displacy(from spacy), which is a cool feature with really interesting output!
+
+### Mack
+1. I like the logic and organization of your analysis. You have good questions and clear ways to answer them in relation to the data you've pulled.
+
+2. Maybe add some visualization at the end of the data collection notebook? Maybe posts over time or average number of posts per author?
+
+3. Learned how to make a pie chart and some clever coding combinations (is in with index to drop specific rows from a df)

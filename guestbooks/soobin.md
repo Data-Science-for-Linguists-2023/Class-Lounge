@@ -47,3 +47,34 @@ You did everything thoroughly! One nitpick I have is that, toward the end of the
 The method you used to calculate positive vs. negative reviews for each TED talk was clever!
 
 -- Hi Seth! Thanks a lot for your comments. And sorry for bothering you with my Korean comments. I left it in Korean thinking that I will revise it later, and I forget.
+
+## Camryn's Notes
+
+1. You have a great level of exploration and analysis within your notebook. I think your findings are really fascinating. In addition, I really like your comments throughout your notebook, they make it easy to follow what is going on.
+
+2. I think what you have is great, but it could be beneficial to add some more comments and summary towards the end of your notebook regarding results and what they mean. I also think you should add some more graphs to your notebook for visualizations!
+
+3.  Your way of calculating and classifying reviews was very advanced and I definitely learned something from your work with the all of the numbers in your analysis.
+
+-- Hi Camryn! Thanks for your suggestion. I forgot about adding visualization, which is an important part of this project! I will add plots for the better understanding of the result :)
+    follow-up comments: Hey Camryn! So, I tried more visualization in the analysis part after reading your feedback, and I found something totally unexpected and so interesting. I owe this to you (& Ashley) haha. Thanks!
+
+## Moldir's Notes
+
+1. I like your topic and how you are stating/exploring multiple hypotheses! Very impressive! Look forward to see what you will find out at your final report. Also, your repo looks tidy and well-organized! Easy to follow and look around.
+
+2. One suggestion I can think of is to attach the links on the READ.ME file to the corresponding words. The markdown syntax for that would be: [the key word](the corresponding link). In this case, the key word will be highlighted only, and the link will be hidden which makes the text more accessible. 
+
+3. I have learned that we can build a model to explore the correlation between the ratings and the text. 
+
+-- Hello Moldir! Thank you for your comments. But I am not very sure what you mean by 'corresponding words'. I think I should ask you tomorrow after class ;) 
+
+## Ashley's Notes
+
+1. You did a great job wrangling with the with the Ratings data and finding a way to add that to your dataframe. I liked how you tested out your code on smaller samples before working on all the data, and I shared your excitement when you finally got it to work! 
+
+2. One suggestion would be to include some more visualizations. I really liked the graph you included to show no correlation between k-band and comments, so especially once you get into developing your classifier, more visualizations like that would be helpful to understand the data better.
+
+3. I was surprised to learn how many different variations of Ted Talks there were, especially that some (like with the high average k-bands), can be performances. Very interesting, and good job digging into your data!
+
+-- Hi Ashley! Thanks for your feedback about my project. I tried to put more visualization in my analysis after reading your comments, and I found something totally unexpected! All credits to you & Camryn :D thanks a lot!!

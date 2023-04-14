@@ -47,3 +47,25 @@ I love the concept and approach for this topic! Looking at a thread through the 
 3. I had no idea that the Reddit API had built in functionality with Python. This is a great way to streamline the work you have done.
 
 -- Thanks for the feedback, Mack! I agree, my notebook is text-heavy and could use a bit more graphs!
+
+## Ashley's Notes
+
+This is such an interesting topic!
+
+1. What I Liked: I loved the explanations and comments you included throughout your JNB code. I felt I could easily understand your thought process and if I ever didn't understand what a certain line of code did, you almost always had an explanation so I didn't get stuck (especially as someone without a ton of CS experience). Great work!
+
+2. Suggestion: You do a great job leading the reader through your JNBs, but just within your repo, it would be helpful to organize your JNBs a bit more so viewers easily know what to look at in what order. I would recommend adding links in your progress report to the JNBs you worked on in each section so they're easier to find.
+
+3. What I Learned: I never knew or thought about the fact that if an API is open-source, you can adjust the code to make it work best for you! Editing the code to look at comments depth-first instead of breadth-first was a great idea. 
+
+
+## Varun's Notes
+
+## Varun
+
+- **One thing I like:** I like topic selection. Plus, the list comprehensions!
+
+- **One potential avenue for improvement:** Maybe keeing in mind the print output, it kinda gets long in the notebook.
+
+- **One thing I learned:** The DFS approach for the comments, I've been iterating them on my project.
+

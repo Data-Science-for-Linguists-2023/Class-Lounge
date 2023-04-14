@@ -47,3 +47,30 @@ I think you have made really great progress!
 
 3. I'm so interested in this PyLangAcq library! Especially when you were able to use the library to annotate the corpus for each token's part of speech and morpheme, I was amazed at how much using the right tools could help your data processing and analysis - I had no idea something like this existed and will definitely be taking a look at additional Python libraries for my own project.
 
+### Wilson
+
+- **One thing I like:** I think the concept of your analysis is really interesting and it's really easy to understand what exactly your goals are. 
+
+- **One potential avenue for improvement:** It's not a big deal at all (especially since you already wrote the code) but the `get_<feature>` functions could probably be refactored into one function that takes a regex pattern as a parameter. Everything else in the functions is the same, so you have a lot of repeated code.
+
+- **One thing I learned:** I didn't know there was a set idea of a general morpheme acquisition order for language learners -- I would have assumed it varied too much for something like that to really make sense. I guess that's what your analysis is investigating -- whether that set order is really valid.
+
+### Varun
+
+- **One thing I like:** I like the pretty printing. Also the "You are here" markings and the documentation. Very nice.
+
+- **One potential avenue for improvement:** I did notice 2 blank PNGs in the folder, but it might just be like that on git or just on my browser.
+
+- **One thing I learned:** I learned about PyLangAcq. Pretty cool!
+
+
+### Soobin
+yoooo 
+- One thing I like is that you incorporated three (or four?) different data sets for this project. What a 'due diligence'. lol
+
+- While reading your data_curation_cont.ipynb file, I got curious why you set the limitation of the `Years_Study` columns as 7. Is there any article that talks about the age of L1 speaker and the stage of acquiring morphemes? Like, Do native speakers of English acquire most of the English morphemes around the age of 7?
+
+- Wow, i didn'kt know about the R. Brown's paper about the morpheme acquisition order. So interesting.
+
+I can't wait to see your final result!! 
+
