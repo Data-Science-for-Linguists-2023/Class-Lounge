@@ -81,3 +81,12 @@ Varun's response: For sure, definitely adding an index section before my final s
 2. Your use of Python scripts keeps your notebooks very clean, but one suggestion would be to either include in your existing notebooks or make new notebooks to demonstrate what exactly these scripts achieve. Walking through the scripts on a small sample of data in a Jupyter Notebook would likely help viewers who are a bit less familiar with NLP better understand your code.
 
 3. Looking over your repo helped me learn just how much spaCy library has to offer in terms of text analysis, and through your Python scripts I learned some great techniques for isolating specific words/punctuation to analyze further. I might base some of my own code off of these strategies, they're really well done!
+
+
+## Alex
+
+1. Your repo is very thoughtfully organized and you separate your code into very easily understandable modules. I also like how you introduce a plan/summary at the top of each notebook to give the reader a sense of what's happening and what you're planning on doing with what you've done so far.
+
+2. Like Ashley said, it would be useful to have an explanation of those scripts somewhere in your notebooks. Since it seems like you did your data collection separate from your Jupyter Notebooks through those Python scripts, it would be useful if you had somewhere like your progress report that you explained the steps you used to use those scripts and attain your data set.
+
+3. I'm using spaCy for my own project, but I honestly don't know much about the feastures that it can extract other than dependencies. So seeing them how you use the different features in "syntactic_analysis.py" is pretty useful!

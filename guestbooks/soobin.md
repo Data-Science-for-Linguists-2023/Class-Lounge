@@ -78,3 +78,12 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 3. I was surprised to learn how many different variations of Ted Talks there were, especially that some (like with the high average k-bands), can be performances. Very interesting, and good job digging into your data!
 
 -- Hi Ashley! Thanks for your feedback about my project. I tried to put more visualization in my analysis after reading your comments, and I found something totally unexpected! All credits to you & Camryn :D thanks a lot!!
+
+
+# Alex's Notes
+
+1. I really enjoyed reading through your process as you cleaned your data set and decided on what you defined as a positively or negatively rated talk. I think it shows a lot of thoughtful considerations for your goals for this project as you worked out what information was available and how you could use that information for your analysis.
+
+2. One suggestion is to maybe include an example of what the most "obnoxious", most "longwinded", etc. talk is prior to your analysis of it so that we could get for ourselves of what might lead someone to rate a talk that way to justify the processes you're doing on them. I agreed with your hypothesis of "obnoxious" having a higher k-band, but it would be interesting to have a TED talk to point at and say "this one is jargony and the reviews think it's obnoxious."
+
+3. I was really interested in seeing the NB model that started overfitting when you increased the number of features! I've never seen accuracy go down in that way on my own projects and so I think it's valuable to see the limits of different models in action.
