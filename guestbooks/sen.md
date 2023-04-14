@@ -72,5 +72,5 @@ yoooo
 
 - Wow, i didn'kt know about the R. Brown's paper about the morpheme acquisition order. So interesting.
 
-I can't wait to see your final result!!
+I can't wait to see your final result!! 
 
