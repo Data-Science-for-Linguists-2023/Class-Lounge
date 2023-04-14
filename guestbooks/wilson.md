@@ -73,6 +73,10 @@ Thank you! Good point -- I'll make sure to give a quick primer when I do my pres
 
 3. Your code is very succinct, so I definitely learned some things about writing code in a line or two rather than a whole block of code.
 
+#### Response
+
+Thank you -- I'll try to add some more comments to the code. That's a good point.
+
 ### Ashley's comments
 
 1. This is such an impressive project! I loved all the analysis you did, walking through your process, visualizing the results using heatmaps, and giving a summary explanation. It helped me better understand the most important takeaways in a concise way.
@@ -80,3 +84,7 @@ Thank you! Good point -- I'll make sure to give a quick primer when I do my pres
 2. One suggestion would be to just add a bit more organization to your repo. It was very helpful having the links to the following notebooks at the bottom of each notebook, so I think adding some folders and maybe a sort of "table of contents" in your readme file would help pull the whole thing together.
 
 3. This is one of the few projects that looks at phonetics/phonology, so I feel like I learned a lot about what NLP processes and analyses are possible in this different subfield of linguistics.
+
+#### Response
+
+Improving the organization is something I've been meaning to do -- definitely going to get that done soon!
