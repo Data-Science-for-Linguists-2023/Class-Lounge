@@ -87,3 +87,11 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 2. One suggestion is to maybe include an example of what the most "obnoxious", most "longwinded", etc. talk is prior to your analysis of it so that we could get for ourselves of what might lead someone to rate a talk that way to justify the processes you're doing on them. I agreed with your hypothesis of "obnoxious" having a higher k-band, but it would be interesting to have a TED talk to point at and say "this one is jargony and the reviews think it's obnoxious."
 
 3. I was really interested in seeing the NB model that started overfitting when you increased the number of features! I've never seen accuracy go down in that way on my own projects and so I think it's valuable to see the limits of different models in action.
+
+## Wilson's notes
+
+- **One thing I like:** Your progress reports are very descriptive and make it easy to tell what exactly you did in each step.
+
+- **One potential avenue for improvement:** There are a few techniques to deal with imbalanced datasets you might want to use to help deal with the issues you're having with your models. The relatively small sample size is a bit limiting, though.
+
+- **One thing I learned:** I didn't know TED talks had that kind of rating system - I can imagine a lot of interesting analysis that could be done with that!

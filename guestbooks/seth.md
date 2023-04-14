@@ -69,3 +69,10 @@ This is such an interesting topic!
 
 - **One thing I learned:** The DFS approach for the comments, I've been iterating them on my project.
 
+## Wilson's notes
+
+- **One thing I like:** The way you're processing comments is interesting and makes a lot of sense.
+
+- **One potential avenue for improvement:** It's kinda unclear to me how you're doing for your analysis -- the most recent progress report in the repo is 2. You also have an error in the data collection preview where it seems like output is supposed to be.
+
+- **One thing I learned:** ConvoKit is totally new to me -- interested to see how you end up using it.

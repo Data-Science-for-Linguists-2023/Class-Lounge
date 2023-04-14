@@ -90,3 +90,11 @@ Varun's response: For sure, definitely adding an index section before my final s
 2. Like Ashley said, it would be useful to have an explanation of those scripts somewhere in your notebooks. Since it seems like you did your data collection separate from your Jupyter Notebooks through those Python scripts, it would be useful if you had somewhere like your progress report that you explained the steps you used to use those scripts and attain your data set.
 
 3. I'm using spaCy for my own project, but I honestly don't know much about the feastures that it can extract other than dependencies. So seeing them how you use the different features in "syntactic_analysis.py" is pretty useful!
+
+## Wilson's notes
+
+- **One thing I like:** Your "commentary" (not sure what the best word for this would be) throughout your notebooks are very thorough and helpful in understanding what you're doing!
+
+- **One potential avenue for improvement:** Since you have such detailed age data, using regression rather than classification might work pretty well -- I'd be interested in seeing what kind of results you get with regression.
+
+- **One thing I learned:** I had no idea that blog corpus existed; it's really cool, especially since it has so much age data and so many blog posts. It seems super useful for a lot of potential avenues for analysis.
