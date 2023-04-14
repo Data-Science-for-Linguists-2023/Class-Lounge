@@ -57,6 +57,7 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 3.  Your way of calculating and classifying reviews was very advanced and I definitely learned something from your work with the all of the numbers in your analysis.
 
 -- Hi Camryn! Thanks for your suggestion. I forgot about adding visualization, which is an important part of this project! I will add plots for the better understanding of the result :)
+    follow-up comments: Hey Camryn! So, I tried more visualization in the analysis part after reading your feedback, and I found something totally unexpected and so interesting. I owe this to you (& Ashley) haha. Thanks!
 
 ## Moldir's Notes
 
@@ -75,3 +76,5 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 2. One suggestion would be to include some more visualizations. I really liked the graph you included to show no correlation between k-band and comments, so especially once you get into developing your classifier, more visualizations like that would be helpful to understand the data better.
 
 3. I was surprised to learn how many different variations of Ted Talks there were, especially that some (like with the high average k-bands), can be performances. Very interesting, and good job digging into your data!
+
+-- Hi Ashley! Thanks for your feedback about my project. I tried to put more visualization in my analysis after reading your comments, and I found something totally unexpected! All credits to you & Camryn :D thanks a lot!!
