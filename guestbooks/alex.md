@@ -53,3 +53,10 @@ Hello! Thanks for visiting my guestbook.
 2. Maybe add some visualization at the end of the data collection notebook? Maybe posts over time or average number of posts per author?
 
 3. Learned how to make a pie chart and some clever coding combinations (is in with index to drop specific rows from a df)
+
+### Seth
+- **One thing I like:** Your repo is well-organized and clean, having separate subfolders for data vs. code, and separate notebooks for analysis vs. collection. The pi-chart displaying A-holes vs. non-a-holes was a funny note. You also went in-depth in your explanations for each code block to explain your findings and their relevancy. 
+
+- **One potential avenue for improvement:** I think your repo is great! One thing that could potentially improve it would be an increase in the variety of visualizations. Most are boxplots / textual representations of your findings. 
+
+- **One thing I learned:** The in-group variance for use of title tokens was high, while between-group variance was roughly the same for not the a-hole, everyone sucks, a-hole, and no a-holes here. This was an interesting piece of knowledge!

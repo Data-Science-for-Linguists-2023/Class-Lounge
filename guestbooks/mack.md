@@ -83,3 +83,13 @@ I am excited to see your result, especially regarding the hedging words as a per
 
 ### Mack's response
 Thanks Soobin! You bring up a great point! I think grouping by character could be really revealing and add another way to analyze the data. I am going to group by decade, but some other ways of grouping the data should be beneficial.
+
+### Seth
+
+- **One thing I like:** I really liked how you separated all of the different parts of your project into separate notebooks (characters, dialogues, utterances, etc.). This made exploring easy. Also, the way you handled filling in '?'s in the gender column was creative. 
+
+- **One potential avenue for improvement:**
+Your analysis and data are all great! This is just a nitpick, but I think the repo would be a little easier to navigate with subfolders. The issue is only minor though, since you included a handy directory in your README! 
+
+- **One thing I learned:** 
+From your research, it appears that the difference in the number of male vs. female characters is staggeringly high. While I suspected this at the beginning, I didn't realize the gulf would be so drastic. The importance of your research goes beyond academics. Great work!

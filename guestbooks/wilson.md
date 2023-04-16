@@ -88,3 +88,11 @@ Thank you -- I'll try to add some more comments to the code. That's a good point
 #### Response
 
 Improving the organization is something I've been meaning to do -- definitely going to get that done soon!
+
+### Seth's comments
+
+1. I am incredibly impressed by your project! Fantastic job at incorporating your python skills in separate script files, to keep your notebooks from getting cluttered. Your visualizations (particularly your place of consonant graph showing significant changes from the mean) were incredibly informative.  
+
+2. Your repo was had such a wealth of information, so having your scripts/notebooks in different subfolders would be better for an outside party to navigate
+
+3. I learned a lot about vowel change. For example, palatal consonants raise the height of nearby vowels regardless of their position. 
