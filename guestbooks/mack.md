@@ -76,3 +76,11 @@ In my opinion, for your analysis, looking at the sentence level might be a littl
 - **One thing I learned:** 
 I forgot about `pickle` package. I might use pickle in my project as you did. (pickling the clean data, making new file, and using the pickled data so that I don't have to process the data everytime I open it!)
 I am excited to see your result, especially regarding the hedging words as a person who (kind of) always uses them. (and I just used it again lol)
+
+### Sen
+
+- **One thing I like:** You made a lot of impressive effort towards supplementing the data with the missing gender markers, I'm not sure I would have been able to come up with all those strategies to augment the data myself. Awesome value add. 
+
+- **One potential avenue for improvement:** I think some type of directory of your notebooks/a brief summary of what each one contains to orient the reader might be helpful. In your analysis notebook, it isn't clear why you're looking at the particular parts of speech that you've chosen, so maybe an explanation of those would be helpful there too. 
+
+- **One thing I learned:** I learned about the Cornell Movie-Dialogue Corpus and the NLTK names corpus, both which seem really cool.
