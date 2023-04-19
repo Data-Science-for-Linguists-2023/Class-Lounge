@@ -102,3 +102,11 @@ Thank you for the feedback, Varun! The workflow description can be found [here](
 - **One potential avenue for improvement:** In your notebooks, it would be nice to have some comments interwoven explaining what you are doing. Your summaries at the end of your sections help clarify, but with the volume of code, navigating line by line can get a bit confusing. 
 
 - **One thing I learned:** I learned that, in Kazakh-Russian code switching, morphemes are the most common form seen (for example, платныйға uses a russian adjective with a Kazakh suffix -ға). Seeing these two languages, which I'm not exposed to regularly, was interesting!
+
+### Sen
+
+- **One thing I like:** Code-switching is such an interesting topic! Your data efforts are extensively and I like the summaries you provide at the end of the notebooks that thoroughly explain your findings, thoughts, and process for the reader. 
+
+- **One potential avenue for improvement:** As you move forward into deeper analysis, I think some visualizations would be helpful.
+
+- **One thing I learned:** In addition to everything I learned about Kazakh, Russian, and code-switching in general, I learned about the Labelbox platform, which seems very useful, so thanks for the excellent demonstration. 
