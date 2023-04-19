@@ -85,3 +85,20 @@ Thank you for the feedback, Varun! The workflow description can be found [here](
 - **One potential avenue for improvement:** It's a little hard to tell what the JSON data actually represents -- maybe some kind of visualization would help? That might be nice for the presentation especially.
 
 - **One thing I learned:** The whole annotation workflow (and this method of annotating) is totally new to me -- it was really interesting to read about.
+
+
+### Soobin
+
+- I liked how you explained the intra- inter- sentential examples, reader-friendly. This is very interesting topic and I think it could be extended to other common type of bilingual pair such as spanish-english. Also, I can see your hard working on annotation. Very impressive!
+
+- I can understand visualization in your project is a little hard, but maybe you can make more visualizations such as the count of inter- intra- sentential code switching. 
+
+- I learned about the `labelbox` platform, which I might need in the future. Great job Moldir! :D
+
+### Seth
+
+- **One thing I like:** Your repo's organization is impressively clear! Your end-of-section summaries were also rich sources of information. For example, the dataset summaries in datasetsComparison.ipynb were useful in displaying the upsides/downsides of each dataset. 
+
+- **One potential avenue for improvement:** In your notebooks, it would be nice to have some comments interwoven explaining what you are doing. Your summaries at the end of your sections help clarify, but with the volume of code, navigating line by line can get a bit confusing. 
+
+- **One thing I learned:** I learned that, in Kazakh-Russian code switching, morphemes are the most common form seen (for example, платныйға uses a russian adjective with a Kazakh suffix -ға). Seeing these two languages, which I'm not exposed to regularly, was interesting!

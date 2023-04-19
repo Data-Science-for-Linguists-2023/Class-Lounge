@@ -64,3 +64,35 @@ Thanks -- visualizations are definitely in progress!
 #### Response
 
 Thank you! Good point -- I'll make sure to give a quick primer when I do my presentation.
+
+### Camryn's comments
+
+1. Your project looks great! You've done a lot of complex work and it shows. I really like your use of scripts within your project, as well.
+
+2. I think your notebooks could use some comments. There is a lot of code, and not a ton of explanation as to what it is doing. Also, I would clean up some of the warnings that you have in your notebooks for readability.
+
+3. Your code is very succinct, so I definitely learned some things about writing code in a line or two rather than a whole block of code.
+
+#### Response
+
+Thank you -- I'll try to add some more comments to the code. That's a good point.
+
+### Ashley's comments
+
+1. This is such an impressive project! I loved all the analysis you did, walking through your process, visualizing the results using heatmaps, and giving a summary explanation. It helped me better understand the most important takeaways in a concise way.
+
+2. One suggestion would be to just add a bit more organization to your repo. It was very helpful having the links to the following notebooks at the bottom of each notebook, so I think adding some folders and maybe a sort of "table of contents" in your readme file would help pull the whole thing together.
+
+3. This is one of the few projects that looks at phonetics/phonology, so I feel like I learned a lot about what NLP processes and analyses are possible in this different subfield of linguistics.
+
+#### Response
+
+Improving the organization is something I've been meaning to do -- definitely going to get that done soon!
+
+### Seth's comments
+
+1. I am incredibly impressed by your project! Fantastic job at incorporating your python skills in separate script files, to keep your notebooks from getting cluttered. Your visualizations (particularly your place of consonant graph showing significant changes from the mean) were incredibly informative.  
+
+2. Your repo was had such a wealth of information, so having your scripts/notebooks in different subfolders would be better for an outside party to navigate
+
+3. I learned a lot about vowel change. For example, palatal consonants raise the height of nearby vowels regardless of their position. 

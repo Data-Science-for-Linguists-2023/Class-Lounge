@@ -78,6 +78,10 @@ Only one thing I can thing of to quibble is, maybe reversing x axis and y axis i
 
 - **One thing I learned:** 
 As I mentioned above, I learned many efficient coding skill from your code, including `lambda x` function. Seems like you almost finished it. Congrats! :D
+ 
+### Camryn's response
+
+Hi, Soobin! Thank you for your feedback. I also agree that the x axis labels are hard to read. I will try to find a better way of displaying that! I am also glad you learned something, specifically lambda x, from my code!
 
 ## Sen
 
@@ -85,4 +89,4 @@ As I mentioned above, I learned many efficient coding skill from your code, incl
 
 - **One potential avenue for improvement:** Your project looks like it's practically completed, so there's not a whole lot to say here, except some of the printed output in your notebooks is reaaally long, maybe there's a way to tidy that?
 
-- **One thing I learned:** I learned about `language_tool_python`, which seems like it could have a lot of interesting uses for text/linguistic data, and saw a great example of how to use it. Thanks for the demonstration. 
+- **One thing I learned:** I learned about `language_tool_python`, which seems like it could have a lot of interesting uses for text/linguistic data, and saw a great example of how to use it. Thanks for the demonstration.

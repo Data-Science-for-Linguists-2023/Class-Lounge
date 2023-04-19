@@ -63,24 +63,41 @@ I appreciate your feedback! I definitely can do some more work on situating what
 
 - **One thing I learned:** I actually didn't know about this dataset. Looks super cool!
 
+### Mack's response
+Thanks for the feedback! I definitely can include some sort of hypotheses/mission statement. I can clarify what is guiding me in my work.
+
 
 ### Soobin
 
-- **One thing I like:** 
+- **One thing I like:**
 I know you struggled with the question mark in the `gender` column, and I am so glad that you made improvement! I can see that you put A LOT of effort on processing that information. + `discourse_df` data set looks super clean and squeakyyyy
 I also like how you explained every step you made. All the comments were helpful and walked me through your project.
 
-- **One potential avenue for improvement:** 
+- **One potential avenue for improvement:**
 In my opinion, for your analysis, looking at the sentence level might be a little hard to grasp what is going on because they are super short. Grouping the sentences by the movie ID (or character ID) and then grouping them by decade could give you a bigger picture and tendency.
 
-- **One thing I learned:** 
+- **One thing I learned:**
 I forgot about `pickle` package. I might use pickle in my project as you did. (pickling the clean data, making new file, and using the pickled data so that I don't have to process the data everytime I open it!)
 I am excited to see your result, especially regarding the hedging words as a person who (kind of) always uses them. (and I just used it again lol)
+=======
+
+### Mack's response
+Thanks Soobin! You bring up a great point! I think grouping by character could be really revealing and add another way to analyze the data. I am going to group by decade, but some other ways of grouping the data should be beneficial.
+
+### Seth
+
+- **One thing I like:** I really liked how you separated all of the different parts of your project into separate notebooks (characters, dialogues, utterances, etc.). This made exploring easy. Also, the way you handled filling in '?'s in the gender column was creative. 
+
+- **One potential avenue for improvement:**
+Your analysis and data are all great! This is just a nitpick, but I think the repo would be a little easier to navigate with subfolders. The issue is only minor though, since you included a handy directory in your README! 
+
+- **One thing I learned:** 
+From your research, it appears that the difference in the number of male vs. female characters is staggeringly high. While I suspected this at the beginning, I didn't realize the gulf would be so drastic. The importance of your research goes beyond academics. Great work!
 
 ### Sen
 
 - **One thing I like:** You made a lot of impressive effort towards supplementing the data with the missing gender markers, I'm not sure I would have been able to come up with all those strategies to augment the data myself. Awesome value add. 
 
-- **One potential avenue for improvement:** I think some type of directory of your notebooks/a brief summary of what each one contains to orient the reader might be helpful. In your analysis notebook, it isn't clear why you're looking at the particular parts of speech that you've chosen, so maybe an explanation of those would be helpful there too. 
+- **One potential avenue for improvement:** In your analysis notebook, it isn't clear why you're looking at the particular parts of speech that you've chosen, so maybe an explanation of why those POS were selected would be helpful.
 
 - **One thing I learned:** I learned about the Cornell Movie-Dialogue Corpus and the NLTK names corpus, both which seem really cool.
