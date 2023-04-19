@@ -20,6 +20,8 @@ I like this topic! Your findings will be really interesting especially because o
 
 3. I learned that there is a theory of the order we learn morphemes.
 
+**Sen's response**: Mack, thanks for your comments. A (hopefully) helpful overview is on its way. 
+
 ### Moldir's Notes
 I like how well-organized and tidy your markdown files are! Your topic is also very intriguing, and I look forward to seeing your final analysis.
 
@@ -28,6 +30,8 @@ I like how well-organized and tidy your markdown files are! Your topic is also v
 2. What I learned: There is a Python library for language acquisition research! 
 
 3. Suggestion: I also agree with Mack on adding a brief theoretical overview for those who are not familiar with the morpheme acquisition order studies or the second language acquisition field in general. 
+
+**Sen's response**: Thank you Moldir! A (hopefully) helpful overview is on its way. 
 
 ### Camryn's Notes
 
@@ -39,6 +43,8 @@ I think you have made really great progress!
 
 3. Similar to what Mack mentioned, I also didn't know of the theory mentioned in the project plan. I knew there was a lot of research in the world of language acquisition and second language acquisition, but it is really fascinating that there are different theories on the order in which different language learners learn morphemes.
 
+**Sen's response**: Camryn, thanks for the comments. I'm glad that you learned more about the world of language acquisition. 
+
 ### Ashley's Notes
 
 1. I love how thorough your explanations are for every step of the process. You have a clear research goal that is well-articulated, and you clearly explained how the different data sets you tried either did or did fit in with that goal, allowing you to switch to data that would be most helpful for you. Great work keeping a clear focus!
@@ -46,6 +52,8 @@ I think you have made really great progress!
 2. One suggestion I have is to try to clarify the connection you will be looking at between L1/L2 learners' morpheme acquisition. Will you be comparing the number of years someone has been learning English as a second language to the age of a native English speaker numerically? Or will you just be looking at the order of morpheme acquisition over time in each group independent of one another, then comparing those orders? This is just a small note, but it might be worth clarifying before you begin your analysis. 
 
 3. I'm so interested in this PyLangAcq library! Especially when you were able to use the library to annotate the corpus for each token's part of speech and morpheme, I was amazed at how much using the right tools could help your data processing and analysis - I had no idea something like this existed and will definitely be taking a look at additional Python libraries for my own project.
+
+**Sen's response**: Thank you Ashley! To answer your question, I'll be looking specifically at the order or ranking of morpheme acquisition over time, rather than the amount of time/years it takes. I'll be sure to clarify this.
 
 ### Wilson
 
@@ -55,6 +63,8 @@ I think you have made really great progress!
 
 - **One thing I learned:** I didn't know there was a set idea of a general morpheme acquisition order for language learners -- I would have assumed it varied too much for something like that to really make sense. I guess that's what your analysis is investigating -- whether that set order is really valid.
 
+**Sen's response**: Thanks Wilson! I agree with you that I could have one function that takes regex patterns as parameters instead of multiple, but that was trickier to figure out for me, so I ended up repeating the code. For the final product, I'd like to consolidate it if I can.
+
 ### Varun
 
 - **One thing I like:** I like the pretty printing. Also the "You are here" markings and the documentation. Very nice.
@@ -63,6 +73,7 @@ I think you have made really great progress!
 
 - **One thing I learned:** I learned about PyLangAcq. Pretty cool!
 
+**Sen's response**: Thank you for the comments Varun! Yep, those PNGs are appearing blank for me, too. I'll be sure to troubleshoot that when I can. 
 
 ### Soobin
 yoooo 
@@ -74,3 +85,4 @@ yoooo
 
 I can't wait to see your final result!! 
 
+**Sen's response**: Soobin, thank you for your comments! To be honest with you, I can't remember right now why I set a limitation of 7 years, but maybe I should revisit that and clarify. Thanks!
