@@ -88,6 +88,8 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 
 3. I was really interested in seeing the NB model that started overfitting when you increased the number of features! I've never seen accuracy go down in that way on my own projects and so I think it's valuable to see the limits of different models in action.
 
+-- Hello Alex! Thanks for your suggestion. I added the examples of talks for the presentation after reading your suggestion cause I thought it would be interesting to ask you guys' opinion on the examples, like would you guys rate it as obnoxious or longwinded after reading the example. (I couldn't do this because of the time limit thought.. lol) Anyway, thanks again for your opinion and good luck with your everything! 
+
 ## Wilson's notes
 
 - **One thing I like:** Your progress reports are very descriptive and make it easy to tell what exactly you did in each step.
@@ -95,3 +97,5 @@ The method you used to calculate positive vs. negative reviews for each TED talk
 - **One potential avenue for improvement:** There are a few techniques to deal with imbalanced datasets you might want to use to help deal with the issues you're having with your models. The relatively small sample size is a bit limiting, though.
 
 - **One thing I learned:** I didn't know TED talks had that kind of rating system - I can imagine a lot of interesting analysis that could be done with that!
+
+-- Hi Wilson. Thanks for your suggestion. I also asked for an advice to Dr. Han regarding the imbalance in the datasets, but she told me not to worry much. (I still don't get the meaning of it though. lol) Anyways, thanks a lot for your comment and good luck with your everything! :)
